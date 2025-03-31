@@ -1,0 +1,10 @@
+# Unity generated files
+[Bb]in/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+*.user
+*.userprefs
+*.pidb
+*.suo
+*.svd
