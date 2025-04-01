@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\bradw\\Unity Project\\MonsterAnimation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3482E8C1-B16C-2D4F-590C-FA2D94E426F3}|Assembly-CSharp.csproj|C:\\Users\\bradw\\Unity Project\\MonsterAnimation\\assets\\scripts\\opponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3482E8C1-B16C-2D4F-590C-FA2D94E426F3}|Assembly-CSharp.csproj|c:\\users\\bradw\\unity project\\monsteranimation\\assets\\scripts\\spriteanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3482E8C1-B16C-2D4F-590C-FA2D94E426F3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spriteanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3482E8C1-B16C-2D4F-590C-FA2D94E426F3}|Assembly-CSharp.csproj|c:\\users\\bradw\\unity project\\monsteranimation\\assets\\scripts\\opponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3482E8C1-B16C-2D4F-590C-FA2D94E426F3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\opponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3482E8C1-B16C-2D4F-590C-FA2D94E426F3}|Assembly-CSharp.csproj|c:\\users\\bradw\\unity project\\monsteranimation\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3482E8C1-B16C-2D4F-590C-FA2D94E426F3}|Assembly-CSharp.csproj|C:\\Users\\bradw\\Unity Project\\MonsterAnimation\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3482E8C1-B16C-2D4F-590C-FA2D94E426F3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -58,11 +62,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "SpriteAnimator.cs",
+              "DocumentMoniker": "C:\\Users\\bradw\\Unity Project\\MonsterAnimation\\Assets\\scripts\\SpriteAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SpriteAnimator.cs",
+              "ToolTip": "C:\\Users\\bradw\\Unity Project\\MonsterAnimation\\Assets\\scripts\\SpriteAnimator.cs",
+              "RelativeToolTip": "Assets\\scripts\\SpriteAnimator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:37:00.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "BattleController.cs",
               "DocumentMoniker": "C:\\Users\\bradw\\Unity Project\\MonsterAnimation\\Assets\\scripts\\BattleController.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\BattleController.cs",
@@ -74,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\bradw\\Unity Project\\MonsterAnimation\\Assets\\scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\GameManager.cs",
@@ -86,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MoveScriptableObject.cs",
               "DocumentMoniker": "C:\\Users\\bradw\\Unity Project\\MonsterAnimation\\Assets\\scripts\\MoveScriptableObject.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\MoveScriptableObject.cs",
@@ -94,12 +111,11 @@
               "RelativeToolTip": "Assets\\scripts\\MoveScriptableObject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T03:41:51.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T03:41:51.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Health.cs",
               "DocumentMoniker": "C:\\Users\\bradw\\Unity Project\\MonsterAnimation\\Assets\\scripts\\Health.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Health.cs",
@@ -107,12 +123,11 @@
               "RelativeToolTip": "Assets\\scripts\\Health.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T05:12:13.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T05:12:13.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\bradw\\Unity Project\\MonsterAnimation\\Assets\\scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Player.cs",
@@ -120,12 +135,11 @@
               "RelativeToolTip": "Assets\\scripts\\Player.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAswFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T04:51:47.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T04:51:47.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Opponent.cs",
               "DocumentMoniker": "C:\\Users\\bradw\\Unity Project\\MonsterAnimation\\Assets\\scripts\\Opponent.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Opponent.cs",
@@ -138,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BattleUIManager.cs",
               "DocumentMoniker": "C:\\Users\\bradw\\Unity Project\\MonsterAnimation\\Assets\\scripts\\BattleUIManager.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\BattleUIManager.cs",
@@ -150,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "QuickAttackSO.cs",
               "DocumentMoniker": "C:\\Users\\bradw\\Unity Project\\MonsterAnimation\\Assets\\scripts\\QuickAttackSO.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\QuickAttackSO.cs",
@@ -162,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MoveManager.cs",
               "DocumentMoniker": "C:\\Users\\bradw\\Unity Project\\MonsterAnimation\\Assets\\scripts\\MoveManager.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\MoveManager.cs",
@@ -174,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "MoveType.cs",
               "DocumentMoniker": "C:\\Users\\bradw\\Unity Project\\MonsterAnimation\\Assets\\scripts\\MoveType.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\MoveType.cs",
@@ -186,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AudioManager.cs",
               "DocumentMoniker": "C:\\Users\\bradw\\Unity Project\\MonsterAnimation\\Assets\\scripts\\AudioManager.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\AudioManager.cs",
@@ -198,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "FireBlastSO.cs",
               "DocumentMoniker": "C:\\Users\\bradw\\Unity Project\\MonsterAnimation\\Assets\\scripts\\FireBlastSO.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\FireBlastSO.cs",
