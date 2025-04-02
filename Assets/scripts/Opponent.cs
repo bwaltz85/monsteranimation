@@ -2,30 +2,86 @@ using UnityEngine;
 
 public class Opponent : MonoBehaviour
 {
-    public Health health;  // Reference to the opponent's health component
-    public int attackPower;  // The opponent's attack power
-    public int defensePower; // The opponent's defense power
+    [Header("Stats")]
+    public int health = 100;
+    public int attackPower = 10;
 
-    void Start()
+    [Header("Moves")]
+    public MoveScriptableObject[] availableMoves;  // Set in Inspector
+    public MoveScriptableObject[] opponentMoves;   // Filled at runtime
+
+    public void AssignRandomMoves()
     {
-        health = GetComponent<Health>();  // Assuming Health is a component attached to the opponent
+        if (availableMoves == null || availableMoves.Length == 0)
+        {
+            Debug.LogError("No available moves assigned to Opponent.");
+            return;
+        }
+
+        opponentMoves = new MoveScriptableObject[4];
+        bool hasDamageMove = false;
+
+        while (!hasDamageMove)
+        {
+            for (int i = 0; i < opponentMoves.Length; i++)
+            {
+                opponentMoves[i] = availableMoves[Random.Range(0, availableMoves.Length)];
+
+                if (opponentMoves[i].moveType == MoveType.Damage)
+                {
+                    hasDamageMove = true;
+                }
+            }
+        }
     }
 
-    // Method to apply damage to the opponent
-    public void TakeDamage(int damage)
+    public MoveScriptableObject SelectRandomMove()
     {
-        // Reduce opponent's health by the damage amount
-        health.ApplyChange(damage);  // Apply damage (negative amount)
+        if (opponentMoves == null || opponentMoves.Length == 0)
+        {
+            Debug.LogWarning("Opponent has no moves assigned.");
+            return null;
+        }
+
+        int index = Random.Range(0, opponentMoves.Length);
+        return opponentMoves[index];
     }
 
-    // Method to apply a debuff to the opponent's stats (e.g., reduce attack power)
-    public void ApplyDebuff(int debuffPower)
+    public void ExecuteMove(MoveScriptableObject move, Player player)
     {
-        attackPower -= debuffPower;
+        if (move == null) return;
 
-        // Optionally, clamp the values to prevent going below 0
+        switch (move.moveType)
+        {
+            case MoveType.Damage:
+                player.TakeDamage(move.power);
+                break;
+
+            case MoveType.Heal:
+                health += move.power;
+                health = Mathf.Min(health, 100);
+                break;
+
+            case MoveType.Buff:
+                attackPower += move.power;
+                break;
+
+            case MoveType.Debuff:
+                player.attackPower -= move.power;
+                player.attackPower = Mathf.Max(player.attackPower, 0);
+                break;
+        }
+    }
+
+    public void TakeDamage(int amount)
+    {
+        health -= amount;
+        health = Mathf.Max(health, 0);
+    }
+
+    public void ApplyDebuff(int power)
+    {
+        attackPower -= power;
         attackPower = Mathf.Max(attackPower, 0);
     }
-
-    // Other opponent-related functionality...
 }

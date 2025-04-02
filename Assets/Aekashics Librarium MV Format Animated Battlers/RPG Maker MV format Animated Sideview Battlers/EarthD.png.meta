@@ -1,0 +1,1480 @@
+fileFormatVersion: 2
+guid: 67ccc878406ff48419c0b47967a984a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5128110258912305990
+    second: EarthD_0
+  - first:
+      213: 8816992867798336975
+    second: EarthD_1
+  - first:
+      213: 3018239083973927957
+    second: EarthD_2
+  - first:
+      213: -1461195381793530973
+    second: EarthD_3
+  - first:
+      213: 1179872309232461944
+    second: EarthD_4
+  - first:
+      213: 177530445451757191
+    second: EarthD_5
+  - first:
+      213: 3234821114276522286
+    second: EarthD_6
+  - first:
+      213: 1830003772822260435
+    second: EarthD_7
+  - first:
+      213: -4870717036091227170
+    second: EarthD_8
+  - first:
+      213: 5176959990213035659
+    second: EarthD_9
+  - first:
+      213: 4855530825696775246
+    second: EarthD_10
+  - first:
+      213: 1050240800529896096
+    second: EarthD_11
+  - first:
+      213: -3623439075386402679
+    second: EarthD_12
+  - first:
+      213: -4452796705346975612
+    second: EarthD_13
+  - first:
+      213: -5809012671568412812
+    second: EarthD_14
+  - first:
+      213: 7376782506043075624
+    second: EarthD_15
+  - first:
+      213: 2175606861839973801
+    second: EarthD_16
+  - first:
+      213: -6179356037456607451
+    second: EarthD_17
+  - first:
+      213: 8654990200324894396
+    second: EarthD_18
+  - first:
+      213: -5614738813413281664
+    second: EarthD_19
+  - first:
+      213: -3875648823783413267
+    second: EarthD_20
+  - first:
+      213: -3426972464794876515
+    second: EarthD_21
+  - first:
+      213: 3047391376295188540
+    second: EarthD_22
+  - first:
+      213: 2488374433014692344
+    second: EarthD_23
+  - first:
+      213: 3986360601740837938
+    second: EarthD_24
+  - first:
+      213: -6622538766788512418
+    second: EarthD_25
+  - first:
+      213: 5154237942854294149
+    second: EarthD_26
+  - first:
+      213: 727727693310786259
+    second: EarthD_27
+  - first:
+      213: 575842096939653310
+    second: EarthD_28
+  - first:
+      213: 8253643653412537650
+    second: EarthD_29
+  - first:
+      213: 3846785351894934094
+    second: EarthD_30
+  - first:
+      213: 5758155509706960203
+    second: EarthD_31
+  - first:
+      213: 7092940737330984344
+    second: EarthD_32
+  - first:
+      213: -2442487499714330583
+    second: EarthD_33
+  - first:
+      213: 7786414806162312424
+    second: EarthD_34
+  - first:
+      213: -157467860394315339
+    second: EarthD_35
+  - first:
+      213: 8982189676169970931
+    second: EarthD_36
+  - first:
+      213: -1026550530640394368
+    second: EarthD_37
+  - first:
+      213: 8457607151913988785
+    second: EarthD_38
+  - first:
+      213: 2809533862398643631
+    second: EarthD_39
+  - first:
+      213: -401838499358349795
+    second: EarthD_40
+  - first:
+      213: 3541721053148103603
+    second: EarthD_41
+  - first:
+      213: 7343639581802541188
+    second: EarthD_42
+  - first:
+      213: 6249030518292994188
+    second: EarthD_43
+  - first:
+      213: 2986471918273246524
+    second: EarthD_44
+  - first:
+      213: -1603772331927674223
+    second: EarthD_45
+  - first:
+      213: 4354407917687645940
+    second: EarthD_46
+  - first:
+      213: -5446283649837743381
+    second: EarthD_47
+  - first:
+      213: -9106650193627530854
+    second: EarthD_48
+  - first:
+      213: 1497460902463044569
+    second: EarthD_49
+  - first:
+      213: -5935521597739178295
+    second: EarthD_50
+  - first:
+      213: 4364590778558339972
+    second: EarthD_51
+  - first:
+      213: -8394204497252542127
+    second: EarthD_52
+  - first:
+      213: 4580443090480736630
+    second: EarthD_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EarthD_0
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2559
+        width: 419
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643218f4c15ba2740800000000000000
+      internalID: 5128110258912305990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_1
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2559
+        width: 419
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5c5408c404c5a70800000000000000
+      internalID: 8816992867798336975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_2
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 2559
+        width: 419
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514677f9470f2e920800000000000000
+      internalID: 3018239083973927957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_3
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 2559
+        width: 419
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab51c0ca8ac8bbe0800000000000000
+      internalID: -1461195381793530973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_4
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 2559
+        width: 514
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878ee103d9fbf5010800000000000000
+      internalID: 1179872309232461944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_5
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 2559
+        width: 496
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78608f1eff6b67200800000000000000
+      internalID: 177530445451757191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_6
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 2559
+        width: 419
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29a2642aa464ec20800000000000000
+      internalID: 3234821114276522286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_7
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 2559
+        width: 419
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da02b05cba756910800000000000000
+      internalID: 1830003772822260435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_8
+      rect:
+        serializedVersion: 2
+        x: 4190
+        y: 2559
+        width: 418
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3c65e69acb76cb0800000000000000
+      internalID: -4870717036091227170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_9
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2047
+        width: 419
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86ce01bea148d740800000000000000
+      internalID: 5176959990213035659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_10
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2047
+        width: 419
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c8d9d6f8f426340800000000000000
+      internalID: 4855530825696775246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_11
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 2047
+        width: 419
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2d4349174339e00800000000000000
+      internalID: 1050240800529896096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_12
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 2047
+        width: 419
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988d256db55f6bdc0800000000000000
+      internalID: -3623439075386402679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_13
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 2047
+        width: 514
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48883c80dfc7432c0800000000000000
+      internalID: -4452796705346975612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_14
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 2047
+        width: 496
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ffb6fa0cd326fa0800000000000000
+      internalID: -5809012671568412812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_15
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 2047
+        width: 419
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c630afa989f5660800000000000000
+      internalID: 7376782506043075624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_16
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 2047
+        width: 419
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adbfdaf9ee413e10800000000000000
+      internalID: 2175606861839973801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_17
+      rect:
+        serializedVersion: 2
+        x: 4190
+        y: 2047
+        width: 418
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527cbbe6c648e3aa0800000000000000
+      internalID: -6179356037456607451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1535
+        width: 419
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe2ad82bb3bc1870800000000000000
+      internalID: 8654990200324894396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_19
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1535
+        width: 419
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08037ef1cc07412b0800000000000000
+      internalID: -5614738813413281664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_20
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1535
+        width: 419
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9aa38cdede63ac0800000000000000
+      internalID: -3875648823783413267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_21
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1535
+        width: 419
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d954bdc33b2f070d0800000000000000
+      internalID: -3426972464794876515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_22
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 1535
+        width: 464
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38d9ab9f428a4a20800000000000000
+      internalID: 3047391376295188540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_23
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 1535
+        width: 452
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f93104ec5b788220800000000000000
+      internalID: 2488374433014692344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_24
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 1535
+        width: 419
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234006db8d5625730800000000000000
+      internalID: 3986360601740837938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_25
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 1535
+        width: 419
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55315e44140814a0800000000000000
+      internalID: -6622538766788512418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_26
+      rect:
+        serializedVersion: 2
+        x: 4190
+        y: 1535
+        width: 418
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a9ba7c918878740800000000000000
+      internalID: 5154237942854294149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_27
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1023
+        width: 419
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daf00d3b78691a00800000000000000
+      internalID: 727727693310786259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_28
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1023
+        width: 419
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8ddc2165dcdf700800000000000000
+      internalID: 575842096939653310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_29
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1023
+        width: 419
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235cf405c25da8270800000000000000
+      internalID: 8253643653412537650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_30
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1023
+        width: 419
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42afda75e6826530800000000000000
+      internalID: 3846785351894934094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_31
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 1023
+        width: 419
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4daa859de319ef40800000000000000
+      internalID: 5758155509706960203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_32
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 1023
+        width: 419
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895b28545003f6260800000000000000
+      internalID: 7092940737330984344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_33
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 1023
+        width: 419
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92002335f8a8a1ed0800000000000000
+      internalID: -2442487499714330583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_34
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 1023
+        width: 419
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec85231307ee0c60800000000000000
+      internalID: 7786414806162312424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_35
+      rect:
+        serializedVersion: 2
+        x: 4190
+        y: 1023
+        width: 418
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1f7a5b0df80ddf0800000000000000
+      internalID: -157467860394315339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_36
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 511
+        width: 419
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4ca49bbe527ac70800000000000000
+      internalID: 8982189676169970931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_37
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 511
+        width: 419
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087c0353bb5f0c1f0800000000000000
+      internalID: -1026550530640394368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_38
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 511
+        width: 419
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2f2a3f4e47f5570800000000000000
+      internalID: 8457607151913988785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_39
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 511
+        width: 419
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadc3bc89287df620800000000000000
+      internalID: 2809533862398643631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_40
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 511
+        width: 419
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d166bac83026c6af0800000000000000
+      internalID: -401838499358349795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_41
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 511
+        width: 419
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b34a627888b62130800000000000000
+      internalID: 3541721053148103603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_42
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 511
+        width: 419
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480b6d79a49d9e560800000000000000
+      internalID: 7343639581802541188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_43
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 511
+        width: 419
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88dd69c52409b650800000000000000
+      internalID: 6249030518292994188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_44
+      rect:
+        serializedVersion: 2
+        x: 4190
+        y: 511
+        width: 418
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c353b5cf264127920800000000000000
+      internalID: 2986471918273246524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_45
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 419
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192e9deaf814eb9e0800000000000000
+      internalID: -1603772331927674223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_46
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 0
+        width: 419
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6abe43ee6fd6c30800000000000000
+      internalID: 4354407917687645940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_47
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 0
+        width: 419
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2476940e9ea64b0800000000000000
+      internalID: -5446283649837743381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_48
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 0
+        width: 419
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99b613e5edae9180800000000000000
+      internalID: -9106650193627530854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_49
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 0
+        width: 419
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db7854c1cc08c410800000000000000
+      internalID: 1497460902463044569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_50
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 0
+        width: 419
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6e81afd8ac0ada0800000000000000
+      internalID: -5935521597739178295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_51
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 0
+        width: 419
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b5ae14034229c30800000000000000
+      internalID: 4364590778558339972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_52
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 0
+        width: 419
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1599641fb7bc18b80800000000000000
+      internalID: -8394204497252542127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthD_53
+      rect:
+        serializedVersion: 2
+        x: 4190
+        y: 0
+        width: 418
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6792ff9f8b0019f30800000000000000
+      internalID: 4580443090480736630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

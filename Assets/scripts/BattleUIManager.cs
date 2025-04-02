@@ -1,59 +1,47 @@
 using UnityEngine;
 using UnityEngine.UI;
-using TMPro; // Assuming you're using TextMeshPro
+using TMPro;
 
 public class BattleUIManager : MonoBehaviour
 {
-    public Button[] moveButtons;  // Array of buttons for moves
-    public TextMeshProUGUI playerHPText;  // Text for displaying player's HP
-    public TextMeshProUGUI opponentHPText;  // Text for displaying opponent's HP
-    public GameManager gameManager;  // Reference to the GameManager
-    public Player player;  // Reference to the Player
-    public Opponent opponent;  // Reference to the Opponent
+    [Header("UI References")]
+    public TextMeshProUGUI playerHPText;
+    public TextMeshProUGUI opponentHPText;
+    public TextMeshProUGUI battleMessageText;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        // Assuming that you have some setup for the move buttons
-        for (int i = 0; i < moveButtons.Length; i++)
-        {
-            int index = i; // Local copy for closure
-            moveButtons[i].onClick.AddListener(() => OnMoveButtonPressed(index)); // Add listener for move buttons
-        }
+    public Button[] moveButtons;
+    public TextMeshProUGUI[] moveButtonTexts;
 
-        // Set initial HP texts
-        UpdateHPUI();
-    }
+    [Header("References")]
+    public GameManager gameManager;
 
     public void UpdateMoveButtons()
     {
-        // Update move buttons with player moves
         for (int i = 0; i < moveButtons.Length; i++)
         {
-            if (player.playerMoves != null && player.playerMoves.Length > i)
+            if (i < gameManager.player.playerMoves.Length)
             {
-                moveButtons[i].GetComponentInChildren<TextMeshProUGUI>().text = player.playerMoves[i].moveName;
+                moveButtonTexts[i].text = gameManager.player.playerMoves[i].moveName;
+                int index = i; // capture index for the lambda
+                moveButtons[i].onClick.RemoveAllListeners();
+                moveButtons[i].onClick.AddListener(() => gameManager.OnPlayerMoveSelected(index));
+                moveButtons[i].gameObject.SetActive(true);
             }
-        }
-    }
-
-    public void OnMoveButtonPressed(int moveIndex)
-    {
-        if (player.playerMoves != null && player.playerMoves.Length > moveIndex)
-        {
-            // Execute the selected move
-            MoveScriptableObject selectedMove = player.playerMoves[moveIndex];
-            player.UseMove(selectedMove); // Use the selected move via the Player script
-
-            // Update HP after move
-            UpdateHPUI();
+            else
+            {
+                moveButtons[i].gameObject.SetActive(false);
+            }
         }
     }
 
     public void UpdateHPUI()
     {
-        // Update the HP text for both player and opponent
-        playerHPText.text = "HP: " + player.health.currentHealth;
-        opponentHPText.text = "HP: " + opponent.health.currentHealth;
+        playerHPText.text = "HP: " + gameManager.player.health;
+        opponentHPText.text = "HP: " + gameManager.opponent.health;
+    }
+
+    public void DisplayMessage(string message)
+    {
+        battleMessageText.text = message;
     }
 }

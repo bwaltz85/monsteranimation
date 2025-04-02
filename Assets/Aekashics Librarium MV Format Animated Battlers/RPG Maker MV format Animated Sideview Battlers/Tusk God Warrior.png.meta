@@ -1,0 +1,1955 @@
+fileFormatVersion: 2
+guid: 04c415bd861470d4f9ab031ba209c40f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1028177946785651622
+    second: Tusk God Warrior_0
+  - first:
+      213: 4663893332463947832
+    second: Tusk God Warrior_1
+  - first:
+      213: -2602255491471927043
+    second: Tusk God Warrior_2
+  - first:
+      213: 4387592256802865403
+    second: Tusk God Warrior_3
+  - first:
+      213: 5497598631270480604
+    second: Tusk God Warrior_4
+  - first:
+      213: -7347227540213347612
+    second: Tusk God Warrior_5
+  - first:
+      213: -4814092716013354494
+    second: Tusk God Warrior_6
+  - first:
+      213: -2088944819000793198
+    second: Tusk God Warrior_7
+  - first:
+      213: 2346838552121158460
+    second: Tusk God Warrior_8
+  - first:
+      213: 4407054656826101267
+    second: Tusk God Warrior_9
+  - first:
+      213: -8809549195758773178
+    second: Tusk God Warrior_10
+  - first:
+      213: 1918302055007525973
+    second: Tusk God Warrior_11
+  - first:
+      213: 3833481869017369882
+    second: Tusk God Warrior_12
+  - first:
+      213: 6769789195928515511
+    second: Tusk God Warrior_13
+  - first:
+      213: 7153351537402755722
+    second: Tusk God Warrior_14
+  - first:
+      213: -1370336375410337015
+    second: Tusk God Warrior_15
+  - first:
+      213: -5068491668919827048
+    second: Tusk God Warrior_16
+  - first:
+      213: -4905769027644999916
+    second: Tusk God Warrior_17
+  - first:
+      213: 7466960942012447112
+    second: Tusk God Warrior_18
+  - first:
+      213: -1445092964382795859
+    second: Tusk God Warrior_19
+  - first:
+      213: 181918843624034520
+    second: Tusk God Warrior_20
+  - first:
+      213: 7065524536812637717
+    second: Tusk God Warrior_21
+  - first:
+      213: 7899262830027766111
+    second: Tusk God Warrior_22
+  - first:
+      213: 3070461344511110555
+    second: Tusk God Warrior_23
+  - first:
+      213: 7606803902860657487
+    second: Tusk God Warrior_24
+  - first:
+      213: 4184050405433752563
+    second: Tusk God Warrior_25
+  - first:
+      213: 5910638973277093667
+    second: Tusk God Warrior_26
+  - first:
+      213: -1490293753731570666
+    second: Tusk God Warrior_27
+  - first:
+      213: 7757817202043307551
+    second: Tusk God Warrior_28
+  - first:
+      213: -6512018995218690035
+    second: Tusk God Warrior_29
+  - first:
+      213: -3009329036770386843
+    second: Tusk God Warrior_30
+  - first:
+      213: -6947730741246137885
+    second: Tusk God Warrior_31
+  - first:
+      213: -6272519543663226050
+    second: Tusk God Warrior_32
+  - first:
+      213: -3458674769942251367
+    second: Tusk God Warrior_33
+  - first:
+      213: -7807874065110333859
+    second: Tusk God Warrior_34
+  - first:
+      213: 881381601206829522
+    second: Tusk God Warrior_35
+  - first:
+      213: -7204312510900291744
+    second: Tusk God Warrior_36
+  - first:
+      213: -5340135135908714339
+    second: Tusk God Warrior_37
+  - first:
+      213: -3202217997348663008
+    second: Tusk God Warrior_38
+  - first:
+      213: -8839161107423477350
+    second: Tusk God Warrior_39
+  - first:
+      213: 1031042571398042317
+    second: Tusk God Warrior_40
+  - first:
+      213: -6932854282040328501
+    second: Tusk God Warrior_41
+  - first:
+      213: 2515678379579603044
+    second: Tusk God Warrior_42
+  - first:
+      213: -3556874279128787336
+    second: Tusk God Warrior_43
+  - first:
+      213: -5779151668525168746
+    second: Tusk God Warrior_44
+  - first:
+      213: -8003100449772373236
+    second: Tusk God Warrior_45
+  - first:
+      213: 771859562125238011
+    second: Tusk God Warrior_46
+  - first:
+      213: -2308008808391432552
+    second: Tusk God Warrior_47
+  - first:
+      213: 7387228991131337539
+    second: Tusk God Warrior_48
+  - first:
+      213: -8218781317661751843
+    second: Tusk God Warrior_49
+  - first:
+      213: 5976837831205529954
+    second: Tusk God Warrior_50
+  - first:
+      213: 9001537321753285392
+    second: Tusk God Warrior_51
+  - first:
+      213: -7574780734379448265
+    second: Tusk God Warrior_52
+  - first:
+      213: -4533880848656717346
+    second: Tusk God Warrior_53
+  - first:
+      213: 7371123973884152751
+    second: Tusk God Warrior_54
+  - first:
+      213: 1486217890563550577
+    second: Tusk God Warrior_55
+  - first:
+      213: -6734739047091491277
+    second: Tusk God Warrior_56
+  - first:
+      213: -8697795874142150138
+    second: Tusk God Warrior_57
+  - first:
+      213: 7343505188734612731
+    second: Tusk God Warrior_58
+  - first:
+      213: 857292279471619669
+    second: Tusk God Warrior_59
+  - first:
+      213: 4169754085595860307
+    second: Tusk God Warrior_60
+  - first:
+      213: -8524353285283126984
+    second: Tusk God Warrior_61
+  - first:
+      213: -1068131625540404052
+    second: Tusk God Warrior_62
+  - first:
+      213: 4671875515673806214
+    second: Tusk God Warrior_63
+  - first:
+      213: -6574295053267556184
+    second: Tusk God Warrior_64
+  - first:
+      213: 4698510536839592946
+    second: Tusk God Warrior_65
+  - first:
+      213: -3692599681629039568
+    second: Tusk God Warrior_66
+  - first:
+      213: 2353184702105001814
+    second: Tusk God Warrior_67
+  - first:
+      213: 7291258319949793339
+    second: Tusk God Warrior_68
+  - first:
+      213: 6565043450562645447
+    second: Tusk God Warrior_69
+  - first:
+      213: -7997247032719271001
+    second: Tusk God Warrior_70
+  - first:
+      213: 4742470639742338070
+    second: Tusk God Warrior_71
+  - first:
+      213: 5240950528657796085
+    second: Tusk God Warrior_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tusk God Warrior_0
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 2915
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5463fbda9d2bb1f0800000000000000
+      internalID: -1028177946785651622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_1
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 2915
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83093d7864a79b040800000000000000
+      internalID: 4663893332463947832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_2
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 2559
+        width: 477
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df89108fa6ee2ebd0800000000000000
+      internalID: -2602255491471927043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_3
+      rect:
+        serializedVersion: 2
+        x: 3602
+        y: 2559
+        width: 477
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf04dfd39ebd3ec30800000000000000
+      internalID: 4387592256802865403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_4
+      rect:
+        serializedVersion: 2
+        x: 4114
+        y: 2559
+        width: 477
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdafc8ed3d46b4c40800000000000000
+      internalID: 5497598631270480604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2559
+        width: 512
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eacd9dba77690a90800000000000000
+      internalID: -7347227540213347612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2559
+        width: 512
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2028a325e28e03db0800000000000000
+      internalID: -4814092716013354494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_7
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2559
+        width: 512
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297a01c31c39203e0800000000000000
+      internalID: -2088944819000793198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_8
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 2568
+        width: 482
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3baf54aa35a19020800000000000000
+      internalID: 2346838552121158460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_9
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 2559
+        width: 514
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ec9dd5cd0092d30800000000000000
+      internalID: 4407054656826101267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_10
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 2559
+        width: 514
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c58737ea13eb580800000000000000
+      internalID: -8809549195758773178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_11
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 2403
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c10a03e8d2f9a10800000000000000
+      internalID: 1918302055007525973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_12
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 2403
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d4eaff273433530800000000000000
+      internalID: 3833481869017369882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2047
+        width: 512
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3b893e76f13fd50800000000000000
+      internalID: 6769789195928515511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2047
+        width: 512
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ab26cb25fc54360800000000000000
+      internalID: 7153351537402755722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_15
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2047
+        width: 512
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bded0b3569bfce0800000000000000
+      internalID: -1370336375410337015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_16
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 2056
+        width: 482
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895c10f5ea919a9b0800000000000000
+      internalID: -5068491668919827048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_17
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 2360
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4173b1daf053bebb0800000000000000
+      internalID: -4905769027644999916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_18
+      rect:
+        serializedVersion: 2
+        x: 4052
+        y: 2360
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8893e544a69ff9760800000000000000
+      internalID: 7466960942012447112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_19
+      rect:
+        serializedVersion: 2
+        x: 4564
+        y: 2360
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da71c86fa9ff1fbe0800000000000000
+      internalID: -1445092964382795859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_20
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 2047
+        width: 514
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d01924793e468200800000000000000
+      internalID: 181918843624034520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_21
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 2047
+        width: 514
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e0688a129cd0260800000000000000
+      internalID: 7065524536812637717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_22
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 2047
+        width: 509
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59704b11b1df9d60800000000000000
+      internalID: 7899262830027766111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_23
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 2048
+        width: 508
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d272823587c9a20800000000000000
+      internalID: 3070461344511110555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_24
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 2048
+        width: 508
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43801ad8dbc09960800000000000000
+      internalID: 7606803902860657487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1535
+        width: 512
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb353afcabb01a30800000000000000
+      internalID: 4184050405433752563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1535
+        width: 512
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fb2cd84dec60250800000000000000
+      internalID: 5910638973277093667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_27
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1535
+        width: 512
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614a8d51ab9615be0800000000000000
+      internalID: -1490293753731570666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_28
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1544
+        width: 482
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16c43084ad49ab60800000000000000
+      internalID: 7757817202043307551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_29
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 1848
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00d46bd939a0a5a0800000000000000
+      internalID: -6512018995218690035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_30
+      rect:
+        serializedVersion: 2
+        x: 4052
+        y: 1848
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c58076f27bc36d0800000000000000
+      internalID: -3009329036770386843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_31
+      rect:
+        serializedVersion: 2
+        x: 4564
+        y: 1848
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e966f493b3b49f90800000000000000
+      internalID: -6947730741246137885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_32
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1535
+        width: 514
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33124155b883f8a0800000000000000
+      internalID: -6272519543663226050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_33
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 1535
+        width: 514
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9987cff1f915000d0800000000000000
+      internalID: -3458674769942251367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_34
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 1535
+        width: 509
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d560d1ad7ebd4a390800000000000000
+      internalID: -7807874065110333859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_35
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 1536
+        width: 508
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d18f7385eb4b3c00800000000000000
+      internalID: 881381601206829522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_36
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 1536
+        width: 508
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067b2e001f3250c90800000000000000
+      internalID: -7204312510900291744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 512
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98249b136704e5b0800000000000000
+      internalID: -5340135135908714339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_38
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1023
+        width: 512
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0219bae82bf6f83d0800000000000000
+      internalID: -3202217997348663008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1023
+        width: 512
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91439ffdcdf45580800000000000000
+      internalID: -8839161107423477350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_40
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 1336
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc25c7881cffe4e00800000000000000
+      internalID: 1031042571398042317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_41
+      rect:
+        serializedVersion: 2
+        x: 4052
+        y: 1336
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bceb07723cd89cf90800000000000000
+      internalID: -6932854282040328501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_42
+      rect:
+        serializedVersion: 2
+        x: 4564
+        y: 1336
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468f8f7582c79e220800000000000000
+      internalID: 2515678379579603044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_43
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1023
+        width: 514
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8761ec130b173aec0800000000000000
+      internalID: -3556874279128787336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_44
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1023
+        width: 514
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697837e3d245ccfa0800000000000000
+      internalID: -5779151668525168746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_45
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 1023
+        width: 514
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b7c8d0b864fe090800000000000000
+      internalID: -8003100449772373236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_46
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 1023
+        width: 509
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe96f8ae2236ba00800000000000000
+      internalID: 771859562125238011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_47
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 1024
+        width: 508
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8962b55973e48ffd0800000000000000
+      internalID: -2308008808391432552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_48
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 1024
+        width: 508
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343c9d2d0a5b48660800000000000000
+      internalID: 7387228991131337539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_49
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 824
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd58722cfe501fd80800000000000000
+      internalID: -8218781317661751843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_50
+      rect:
+        serializedVersion: 2
+        x: 4052
+        y: 824
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2692f11475ef1f250800000000000000
+      internalID: 5976837831205529954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_51
+      rect:
+        serializedVersion: 2
+        x: 4564
+        y: 824
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013968f7082ebec70800000000000000
+      internalID: 9001537321753285392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 511
+        width: 503
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73827d31e09f0e690800000000000000
+      internalID: -7574780734379448265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_53
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 511
+        width: 503
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9aed1c36b6411c0800000000000000
+      internalID: -4533880848656717346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_54
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 511
+        width: 503
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab0bba433e7b4660800000000000000
+      internalID: 7371123973884152751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_55
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 511
+        width: 514
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17deed11c4b10a410800000000000000
+      internalID: 1486217890563550577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_56
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 511
+        width: 514
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ea823d4866982a0800000000000000
+      internalID: -6734739047091491277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_57
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 511
+        width: 514
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60226e04cb83b4780800000000000000
+      internalID: -8697795874142150138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_58
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 511
+        width: 509
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4b3c4cf0f59e560800000000000000
+      internalID: 7343505188734612731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_59
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 512
+        width: 508
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e379a39c6b5eb00800000000000000
+      internalID: 857292279471619669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_60
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 512
+        width: 508
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dcca0af31fdd930800000000000000
+      internalID: 4169754085595860307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_61
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 477
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831e3cad9d963b980800000000000000
+      internalID: -8524353285283126984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_62
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 477
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacbd4e12fb3d21f0800000000000000
+      internalID: -1068131625540404052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_63
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 0
+        width: 477
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68505926706d5d040800000000000000
+      internalID: 4671875515673806214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_64
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 7
+        width: 482
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8216d2b7963c4a0800000000000000
+      internalID: -6574295053267556184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_65
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 312
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbf0c18076743140800000000000000
+      internalID: 4698510536839592946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_66
+      rect:
+        serializedVersion: 2
+        x: 4052
+        y: 312
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034d7ce572041ccc0800000000000000
+      internalID: -3692599681629039568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_67
+      rect:
+        serializedVersion: 2
+        x: 4564
+        y: 312
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f1ad3d40138a020800000000000000
+      internalID: 2353184702105001814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_68
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 0
+        width: 514
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38083eafc0cf2560800000000000000
+      internalID: 7291258319949793339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_69
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 0
+        width: 514
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd8ac53c38bb1b50800000000000000
+      internalID: 6565043450562645447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_70
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 0
+        width: 509
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab98b9e132140190800000000000000
+      internalID: -7997247032719271001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_71
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 0
+        width: 508
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614cf8f8be3a0d140800000000000000
+      internalID: 4742470639742338070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tusk God Warrior_72
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 0
+        width: 508
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb2b02fcb89bb840800000000000000
+      internalID: 5240950528657796085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

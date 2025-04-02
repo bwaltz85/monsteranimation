@@ -1,0 +1,2680 @@
+fileFormatVersion: 2
+guid: d96cf1331d4a26148b15de0de40c5f94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1076278513725678563
+    second: EldritchOvermind_0
+  - first:
+      213: 8378588267130449415
+    second: EldritchOvermind_1
+  - first:
+      213: 7906079959614854754
+    second: EldritchOvermind_2
+  - first:
+      213: -7601905841937108096
+    second: EldritchOvermind_3
+  - first:
+      213: -8850832073086383323
+    second: EldritchOvermind_4
+  - first:
+      213: -5766317433776729588
+    second: EldritchOvermind_5
+  - first:
+      213: -3005434493309670494
+    second: EldritchOvermind_6
+  - first:
+      213: 1440451068171517106
+    second: EldritchOvermind_7
+  - first:
+      213: 6221941358585268665
+    second: EldritchOvermind_8
+  - first:
+      213: 1873803956998492717
+    second: EldritchOvermind_9
+  - first:
+      213: 9180941110034139462
+    second: EldritchOvermind_10
+  - first:
+      213: 5628928811484625395
+    second: EldritchOvermind_11
+  - first:
+      213: 8992597483865329594
+    second: EldritchOvermind_12
+  - first:
+      213: 5495290495923898023
+    second: EldritchOvermind_13
+  - first:
+      213: 1567920805102801712
+    second: EldritchOvermind_14
+  - first:
+      213: -6994171285344845159
+    second: EldritchOvermind_15
+  - first:
+      213: 739766666911037258
+    second: EldritchOvermind_16
+  - first:
+      213: -983164853059904461
+    second: EldritchOvermind_17
+  - first:
+      213: -1534513532426402711
+    second: EldritchOvermind_18
+  - first:
+      213: 4695954414376817160
+    second: EldritchOvermind_19
+  - first:
+      213: -6288452634698354209
+    second: EldritchOvermind_20
+  - first:
+      213: 7403482925497663413
+    second: EldritchOvermind_21
+  - first:
+      213: 525479855616803912
+    second: EldritchOvermind_22
+  - first:
+      213: 2100581125607883403
+    second: EldritchOvermind_23
+  - first:
+      213: 8102683421332157458
+    second: EldritchOvermind_24
+  - first:
+      213: 1939435183602637132
+    second: EldritchOvermind_25
+  - first:
+      213: -6555589645708869715
+    second: EldritchOvermind_26
+  - first:
+      213: 956713373258679760
+    second: EldritchOvermind_27
+  - first:
+      213: -814450723379400895
+    second: EldritchOvermind_28
+  - first:
+      213: 6304088834427585811
+    second: EldritchOvermind_29
+  - first:
+      213: 6303217141210415949
+    second: EldritchOvermind_30
+  - first:
+      213: 1368449621240544319
+    second: EldritchOvermind_31
+  - first:
+      213: 2418250212321829604
+    second: EldritchOvermind_32
+  - first:
+      213: 3796955664667428973
+    second: EldritchOvermind_33
+  - first:
+      213: 6829806423838107958
+    second: EldritchOvermind_34
+  - first:
+      213: -7515473624098090848
+    second: EldritchOvermind_35
+  - first:
+      213: 2933713458741627433
+    second: EldritchOvermind_36
+  - first:
+      213: -5620359545590860965
+    second: EldritchOvermind_37
+  - first:
+      213: 2409232306251982111
+    second: EldritchOvermind_38
+  - first:
+      213: -3891265367577653971
+    second: EldritchOvermind_39
+  - first:
+      213: 3340016592028400482
+    second: EldritchOvermind_40
+  - first:
+      213: 2870965789660374246
+    second: EldritchOvermind_41
+  - first:
+      213: -6893593055920215266
+    second: EldritchOvermind_42
+  - first:
+      213: -8738169128516766219
+    second: EldritchOvermind_43
+  - first:
+      213: -7826679278969640339
+    second: EldritchOvermind_44
+  - first:
+      213: 1833810383589581249
+    second: EldritchOvermind_45
+  - first:
+      213: -1447508107491159318
+    second: EldritchOvermind_46
+  - first:
+      213: 8443775777569434211
+    second: EldritchOvermind_47
+  - first:
+      213: -5887129662683093185
+    second: EldritchOvermind_48
+  - first:
+      213: -7206966228469538144
+    second: EldritchOvermind_49
+  - first:
+      213: 8162287201686206469
+    second: EldritchOvermind_50
+  - first:
+      213: -4120589811585240302
+    second: EldritchOvermind_51
+  - first:
+      213: -2598280371301788071
+    second: EldritchOvermind_52
+  - first:
+      213: 3395184358419537166
+    second: EldritchOvermind_53
+  - first:
+      213: 1331684568029391645
+    second: EldritchOvermind_54
+  - first:
+      213: 1472914619161576437
+    second: EldritchOvermind_55
+  - first:
+      213: 4029728709641255719
+    second: EldritchOvermind_56
+  - first:
+      213: -2350839791523912506
+    second: EldritchOvermind_57
+  - first:
+      213: -1185093109962033218
+    second: EldritchOvermind_58
+  - first:
+      213: -6760183386346704231
+    second: EldritchOvermind_59
+  - first:
+      213: 5761793721272318634
+    second: EldritchOvermind_60
+  - first:
+      213: 4205485852017367503
+    second: EldritchOvermind_61
+  - first:
+      213: -8186622211495687963
+    second: EldritchOvermind_62
+  - first:
+      213: -6110220165563413774
+    second: EldritchOvermind_63
+  - first:
+      213: 4266585316415101851
+    second: EldritchOvermind_64
+  - first:
+      213: -2236708366458491284
+    second: EldritchOvermind_65
+  - first:
+      213: -7355503013819268712
+    second: EldritchOvermind_66
+  - first:
+      213: -8412906899514570552
+    second: EldritchOvermind_67
+  - first:
+      213: -1079841086075451727
+    second: EldritchOvermind_68
+  - first:
+      213: 5168596478907641025
+    second: EldritchOvermind_69
+  - first:
+      213: -997256807772641556
+    second: EldritchOvermind_70
+  - first:
+      213: -1365975238108115078
+    second: EldritchOvermind_71
+  - first:
+      213: -9071691461242856911
+    second: EldritchOvermind_72
+  - first:
+      213: -5168366003939326834
+    second: EldritchOvermind_73
+  - first:
+      213: -5705638207566045171
+    second: EldritchOvermind_74
+  - first:
+      213: 6980764363681962863
+    second: EldritchOvermind_75
+  - first:
+      213: 4717738196187128242
+    second: EldritchOvermind_76
+  - first:
+      213: -179465594568165474
+    second: EldritchOvermind_77
+  - first:
+      213: -5620827084024501258
+    second: EldritchOvermind_78
+  - first:
+      213: -178320720452728078
+    second: EldritchOvermind_79
+  - first:
+      213: -6449874206462005952
+    second: EldritchOvermind_80
+  - first:
+      213: -2325862271616259650
+    second: EldritchOvermind_81
+  - first:
+      213: -745394772595753271
+    second: EldritchOvermind_82
+  - first:
+      213: -6532388559130794211
+    second: EldritchOvermind_83
+  - first:
+      213: -502931201568617997
+    second: EldritchOvermind_84
+  - first:
+      213: 3038884121263571830
+    second: EldritchOvermind_85
+  - first:
+      213: 5710224758777980996
+    second: EldritchOvermind_86
+  - first:
+      213: 7405568869150313567
+    second: EldritchOvermind_87
+  - first:
+      213: -5188595352817661145
+    second: EldritchOvermind_88
+  - first:
+      213: 420728362092457700
+    second: EldritchOvermind_89
+  - first:
+      213: -5085948205558462287
+    second: EldritchOvermind_90
+  - first:
+      213: 3929926224053666735
+    second: EldritchOvermind_91
+  - first:
+      213: -1601814328945655825
+    second: EldritchOvermind_92
+  - first:
+      213: -5355439402949993888
+    second: EldritchOvermind_93
+  - first:
+      213: 4904031712356470368
+    second: EldritchOvermind_94
+  - first:
+      213: -7207049483829447800
+    second: EldritchOvermind_95
+  - first:
+      213: 1018734539124333133
+    second: EldritchOvermind_96
+  - first:
+      213: -5959449461384788324
+    second: EldritchOvermind_97
+  - first:
+      213: -8528699792748513382
+    second: EldritchOvermind_98
+  - first:
+      213: 5155296505744740115
+    second: EldritchOvermind_99
+  - first:
+      213: -915485599880350402
+    second: EldritchOvermind_100
+  - first:
+      213: 6142563551227517983
+    second: EldritchOvermind_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EldritchOvermind_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2622
+        width: 422
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cdef5e46a4011f0800000000000000
+      internalID: -1076278513725678563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_1
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2627
+        width: 424
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ee09523a9b64470800000000000000
+      internalID: 8378588267130449415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_2
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 2632
+        width: 424
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2669da6c5d908bd60800000000000000
+      internalID: 7906079959614854754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_3
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 2639
+        width: 433
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0833f53d9ea908690800000000000000
+      internalID: -7601905841937108096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_4
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 2559
+        width: 450
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b4d0d8f178b2580800000000000000
+      internalID: -8850832073086383323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_5
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 2559
+        width: 449
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02989168dce9ffa0800000000000000
+      internalID: -5766317433776729588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_6
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 2622
+        width: 422
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab2296704d8a46d0800000000000000
+      internalID: -3005434493309670494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_7
+      rect:
+        serializedVersion: 2
+        x: 3590
+        y: 2631
+        width: 427
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcf1ba5d928df310800000000000000
+      internalID: 1440451068171517106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_8
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2639
+        width: 433
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b949cb43b6c85650800000000000000
+      internalID: 6221941358585268665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2559
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22dd9365c6110a10800000000000000
+      internalID: 1873803956998492717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_10
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2559
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6498d5ffb41496f70800000000000000
+      internalID: 9180941110034139462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_11
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 2559
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9b0824ee8fd1e40800000000000000
+      internalID: 5628928811484625395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_12
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 2559
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf4dd944cf1ccc70800000000000000
+      internalID: 8992597483865329594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_13
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 2578
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6cf1b3791334c40800000000000000
+      internalID: 5495290495923898023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_14
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 2559
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033d8104aaf52c510800000000000000
+      internalID: 1567920805102801712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_15
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 2559
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99288cec546bfee90800000000000000
+      internalID: -6994171285344845159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_16
+      rect:
+        serializedVersion: 2
+        x: 4147
+        y: 2559
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4738e53ddd244a00800000000000000
+      internalID: 739766666911037258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2110
+        width: 422
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c17b176c81b52f0800000000000000
+      internalID: -983164853059904461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_18
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2119
+        width: 427
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964c1bc821054bae0800000000000000
+      internalID: -1534513532426402711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_19
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 2127
+        width: 433
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8029b5ed8a16b2140800000000000000
+      internalID: 4695954414376817160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_20
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 2127
+        width: 433
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd17fe975adeab8a0800000000000000
+      internalID: -6288452634698354209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_21
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 2047
+        width: 450
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf35f2de747eb660800000000000000
+      internalID: 7403482925497663413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_22
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 2047
+        width: 449
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844c9a20521ea4700800000000000000
+      internalID: 525479855616803912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_23
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 2070
+        width: 392
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b828fb58763c62d10800000000000000
+      internalID: 2100581125607883403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_24
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 2076
+        width: 392
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21433ff44a3827070800000000000000
+      internalID: 8102683421332157458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_25
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 2082
+        width: 392
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49978f16024aea10800000000000000
+      internalID: 1939435183602637132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_26
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2047
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf3b4243fdd505a0800000000000000
+      internalID: -6555589645708869715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_27
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 2047
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d503fc7ebde64d00800000000000000
+      internalID: 956713373258679760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_28
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 2047
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f29e9d16d72b4f0800000000000000
+      internalID: -814450723379400895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_29
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 2047
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3150098f46f9c7750800000000000000
+      internalID: 6304088834427585811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_30
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 2066
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4300041896897750800000000000000
+      internalID: 6303217141210415949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_31
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 2047
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c7f0f1ea5bdf210800000000000000
+      internalID: 1368449621240544319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_32
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 2047
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2a47371c95f8120800000000000000
+      internalID: 2418250212321829604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_33
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 2047
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68c8645f0f71b430800000000000000
+      internalID: 3796955664667428973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_34
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1598
+        width: 422
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6392d81b1c858ce50800000000000000
+      internalID: 6829806423838107958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_35
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1607
+        width: 427
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0d0dcbe8ca3b790800000000000000
+      internalID: -7515473624098090848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_36
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1615
+        width: 433
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ac315e8d4a6b820800000000000000
+      internalID: 2933713458741627433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_37
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1615
+        width: 433
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53b41f65c87002b0800000000000000
+      internalID: -5620359545590860965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_38
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 1535
+        width: 450
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f156b8394005f6120800000000000000
+      internalID: 2409232306251982111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_39
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 1535
+        width: 449
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d01c6d3c27ff9c0800000000000000
+      internalID: -3891265367577653971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_40
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 1558
+        width: 392
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b73cfe46f1a5e20800000000000000
+      internalID: 3340016592028400482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_41
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 1564
+        width: 392
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e46107bc28b7d720800000000000000
+      internalID: 2870965789660374246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_42
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 1570
+        width: 392
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ba6c3b3a90550a0800000000000000
+      internalID: -6893593055920215266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_43
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1535
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f539737979cbb680800000000000000
+      internalID: -8738169128516766219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_44
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1535
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6aaa1ec9ac026390800000000000000
+      internalID: -7826679278969640339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_45
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1535
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1a743f3d0037910800000000000000
+      internalID: 1833810383589581249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_46
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1535
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2dd73ab0b69ebe0800000000000000
+      internalID: -1447508107491159318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_47
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 1554
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ae21925515e2570800000000000000
+      internalID: 8443775777569434211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_48
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 1535
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37eb1d53c6bc4ea0800000000000000
+      internalID: -5887129662683093185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_49
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 1535
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a226db3666bbfb90800000000000000
+      internalID: -7206966228469538144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_50
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 1535
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508393bd6f4464170800000000000000
+      internalID: 8162287201686206469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_51
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1086
+        width: 422
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2133e5fe569b0d6c0800000000000000
+      internalID: -4120589811585240302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_52
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1091
+        width: 424
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956dfa1c4cd01fbd0800000000000000
+      internalID: -2598280371301788071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_53
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1096
+        width: 424
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d1f8e7f2e1e1f20800000000000000
+      internalID: 3395184358419537166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_54
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1103
+        width: 433
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1be24e1f081b7210800000000000000
+      internalID: 1331684568029391645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_55
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 1023
+        width: 450
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f30b93da08d07410800000000000000
+      internalID: 1472914619161576437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_56
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 1023
+        width: 449
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b3c5739e87ce730800000000000000
+      internalID: 4029728709641255719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_57
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 1046
+        width: 392
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c42d563aa3206fd0800000000000000
+      internalID: -2350839791523912506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_58
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 1052
+        width: 392
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb733fa6814bd8fe0800000000000000
+      internalID: -1185093109962033218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_59
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 1058
+        width: 392
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992be40f6010f22a0800000000000000
+      internalID: -6760183386346704231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_60
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1023
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa3389bcd006ff40800000000000000
+      internalID: 5761793721272318634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_61
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1023
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc91d6dc913ec5a30800000000000000
+      internalID: 4205485852017367503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_62
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1023
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e80a752976436e80800000000000000
+      internalID: -8186622211495687963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_63
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1023
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa0a2cf123243ba0800000000000000
+      internalID: -6110220165563413774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_64
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 1042
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bd1dc6db4f53b30800000000000000
+      internalID: 4266585316415101851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_65
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 1023
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ee81f579d95f0e0800000000000000
+      internalID: -2236708366458491284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_66
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 1023
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891ccf4eaf00ce990800000000000000
+      internalID: -7355503013819268712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_67
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 1023
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c840069fb95f3b80800000000000000
+      internalID: -8412906899514570552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_68
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 541
+        width: 454
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6c992e042a301f0800000000000000
+      internalID: -1079841086075451727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_69
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 541
+        width: 454
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccef98fc1b8ab740800000000000000
+      internalID: 5168596478907641025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_70
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 541
+        width: 454
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce62fde87380922f0800000000000000
+      internalID: -997256807772641556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_71
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 591
+        width: 433
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f069812c41b0de0800000000000000
+      internalID: -1365975238108115078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_72
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 511
+        width: 450
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13adcac0ea0ea1280800000000000000
+      internalID: -9071691461242856911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_73
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 511
+        width: 449
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84cdf9a0864648b0800000000000000
+      internalID: -5168366003939326834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_74
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 534
+        width: 392
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00212da74081d0b0800000000000000
+      internalID: -5705638207566045171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_75
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 540
+        width: 392
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b18fdf338a0e060800000000000000
+      internalID: 6980764363681962863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_76
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 546
+        width: 392
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1a60fc4e5c87140800000000000000
+      internalID: 4717738196187128242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_77
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 511
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e973c5a1ef8628df0800000000000000
+      internalID: -179465594568165474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_78
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 511
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb23d82c8fcef1b0800000000000000
+      internalID: -5620827084024501258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_79
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 511
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fac251ef3a768df0800000000000000
+      internalID: -178320720452728078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_80
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 511
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04da0e505917d76a0800000000000000
+      internalID: -6449874206462005952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_81
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 530
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb964df3690e8bfd0800000000000000
+      internalID: -2325862271616259650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_82
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 511
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce3ff15763d7a5f0800000000000000
+      internalID: -745394772595753271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_83
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 511
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17ee2e273b4855a0800000000000000
+      internalID: -6532388559130794211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_84
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 511
+        width: 303
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9ca00acba3509f0800000000000000
+      internalID: -502931201568617997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_85
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 62
+        width: 422
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6738d71f1094c2a20800000000000000
+      internalID: 3038884121263571830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_86
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 71
+        width: 427
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4482a9ef92bce3f40800000000000000
+      internalID: 5710224758777980996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_87
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 79
+        width: 433
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c456d66add5c660800000000000000
+      internalID: 7405568869150313567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_88
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 79
+        width: 433
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b8f0854086ef7b0800000000000000
+      internalID: -5188595352817661145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_89
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 0
+        width: 450
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eee379573ab6d500800000000000000
+      internalID: 420728362092457700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_90
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 0
+        width: 449
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b807a5bd051b69b0800000000000000
+      internalID: -5085948205558462287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_91
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 22
+        width: 392
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa306324417e98630800000000000000
+      internalID: 3929926224053666735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_92
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 28
+        width: 392
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef3017ca5635c9e0800000000000000
+      internalID: -1601814328945655825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_93
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 34
+        width: 392
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a1903cc38ada5b0800000000000000
+      internalID: -5355439402949993888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_94
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 303
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e02461cde9e0440800000000000000
+      internalID: 4904031712356470368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_95
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 0
+        width: 303
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883fea5ddaa6bfb90800000000000000
+      internalID: -7207049483829447800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_96
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 0
+        width: 303
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a5de47aa5432e00800000000000000
+      internalID: 1018734539124333133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_97
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 0
+        width: 303
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9644451a48cb4da0800000000000000
+      internalID: -5959449461384788324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_98
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 18
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97f649b9b8f3a980800000000000000
+      internalID: -8528699792748513382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_99
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 0
+        width: 303
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f4ab8abda4b8740800000000000000
+      internalID: 5155296505744740115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_100
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 0
+        width: 303
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35752682ba8b43f0800000000000000
+      internalID: -915485599880350402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldritchOvermind_101
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 0
+        width: 303
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c9d215105ce3550800000000000000
+      internalID: 6142563551227517983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

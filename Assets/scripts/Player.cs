@@ -1,46 +1,33 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    public Health health;  // Reference to the player's health component
-    public int attackPower;  // Player's attack power, which could be modified by buffs/debuffs
-    public MoveScriptableObject[] playerMoves;  // Player's moves, which are randomly assigned
-    public Opponent target;  // Reference to the opponent (target)
+    [Header("Stats")]
+    public int health = 100;
+    public int attackPower = 10;
 
-    void Start()
-    {
-        // Use FindFirstObjectByType instead of the deprecated FindObjectOfType
-        target = FindFirstObjectByType<Opponent>();  // Find the first Opponent object in the scene
-        AssignRandomMoves();  // Call this to assign random moves to the player at the start of the game
-    }
+    [Header("Moves")]
+    public MoveScriptableObject[] availableMoves; // Set in Inspector
+    public MoveScriptableObject[] playerMoves;    // Filled at runtime
 
-    // Assign random moves to the player, with at least one guaranteed damage move
     public void AssignRandomMoves()
     {
-        // You can add logic here to randomize the player's moves,
-        // ensuring one of them is a damage-type move.
+        if (availableMoves == null || availableMoves.Length == 0)
+        {
+            Debug.LogError("No available moves assigned to Player.");
+            return;
+        }
 
-        // For this example, we assume you have a list of available moves and select randomly.
-        List<MoveScriptableObject> allMoves = new List<MoveScriptableObject>();
-
-        // Add your move options here
-        allMoves.AddRange(Resources.LoadAll<MoveScriptableObject>("Moves"));
-
-        // Randomize and pick 4 moves (at least one damage move)
         playerMoves = new MoveScriptableObject[4];
-
         bool hasDamageMove = false;
 
-        // Ensure at least one damage move
         while (!hasDamageMove)
         {
             for (int i = 0; i < playerMoves.Length; i++)
             {
-                playerMoves[i] = allMoves[Random.Range(0, allMoves.Count)];
+                playerMoves[i] = availableMoves[Random.Range(0, availableMoves.Length)];
 
-                // Check if there is at least one damage move
                 if (playerMoves[i].moveType == MoveType.Damage)
                 {
                     hasDamageMove = true;
@@ -49,34 +36,32 @@ public class Player : MonoBehaviour
         }
     }
 
-    // Use a move by calling the selected move from playerMoves
-    public void UseMove(MoveScriptableObject selectedMove)
+    public void ExecuteMove(MoveScriptableObject move, Opponent opponent)
     {
-        if (selectedMove != null)
+        switch (move.moveType)
         {
-            // Apply effects based on move type
-            if (selectedMove.moveType == MoveType.Damage)
-            {
-                target.TakeDamage(selectedMove.power);
-            }
-            else if (selectedMove.moveType == MoveType.Debuff)
-            {
-                target.ApplyDebuff(selectedMove.power);
-            }
-            else if (selectedMove.moveType == MoveType.Heal)
-            {
-                health.ApplyChange(selectedMove.power);  // Heal the player
-            }
-            else if (selectedMove.moveType == MoveType.Buff)
-            {
-                attackPower += selectedMove.power;  // Apply buff to the player's stats
-            }
+            case MoveType.Damage:
+                opponent.TakeDamage(move.power);
+                break;
+
+            case MoveType.Heal:
+                health += move.power;
+                health = Mathf.Min(health, 100); // Optional: Clamp to max health
+                break;
+
+            case MoveType.Buff:
+                attackPower += move.power;
+                break;
+
+            case MoveType.Debuff:
+                opponent.ApplyDebuff(move.power);
+                break;
         }
     }
 
-    // You could also implement additional functionality for taking damage, healing, etc.
-    public void TakeDamage(int damage)
+    public void TakeDamage(int amount)
     {
-        health.ApplyChange(-damage);  // Decrease health by the given damage
+        health -= amount;
+        health = Mathf.Max(health, 0);
     }
 }

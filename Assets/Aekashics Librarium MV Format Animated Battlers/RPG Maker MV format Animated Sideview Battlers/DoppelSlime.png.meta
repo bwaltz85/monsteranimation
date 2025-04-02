@@ -1,0 +1,1555 @@
+fileFormatVersion: 2
+guid: ce762c1727d8a0d4e8511fb097c43a9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3822481709114591320
+    second: DoppelSlime_0
+  - first:
+      213: 7391891193925170001
+    second: DoppelSlime_1
+  - first:
+      213: 2651409477509715306
+    second: DoppelSlime_2
+  - first:
+      213: -2259014341428551428
+    second: DoppelSlime_3
+  - first:
+      213: -408612818257330958
+    second: DoppelSlime_4
+  - first:
+      213: -4261929397847046676
+    second: DoppelSlime_5
+  - first:
+      213: -3789520254482291398
+    second: DoppelSlime_6
+  - first:
+      213: 8344897245938357594
+    second: DoppelSlime_7
+  - first:
+      213: 5472315453500269376
+    second: DoppelSlime_8
+  - first:
+      213: 8609168708793710366
+    second: DoppelSlime_9
+  - first:
+      213: -561517191644883776
+    second: DoppelSlime_10
+  - first:
+      213: 4995256355455589291
+    second: DoppelSlime_11
+  - first:
+      213: 4885707483222833454
+    second: DoppelSlime_12
+  - first:
+      213: -4549283736258145937
+    second: DoppelSlime_13
+  - first:
+      213: 5501700511977676156
+    second: DoppelSlime_14
+  - first:
+      213: -7992104221354181152
+    second: DoppelSlime_15
+  - first:
+      213: -6052477734912875654
+    second: DoppelSlime_16
+  - first:
+      213: 2203973852594673846
+    second: DoppelSlime_17
+  - first:
+      213: 6498516907993605640
+    second: DoppelSlime_18
+  - first:
+      213: 4119897425866335172
+    second: DoppelSlime_19
+  - first:
+      213: 2386507873538331487
+    second: DoppelSlime_20
+  - first:
+      213: 8181160542590740740
+    second: DoppelSlime_21
+  - first:
+      213: -7459482141082775126
+    second: DoppelSlime_22
+  - first:
+      213: 5466265729808018048
+    second: DoppelSlime_23
+  - first:
+      213: -6275445492638718690
+    second: DoppelSlime_24
+  - first:
+      213: -454430787705973153
+    second: DoppelSlime_25
+  - first:
+      213: -43942065812217816
+    second: DoppelSlime_26
+  - first:
+      213: 5749701522270748472
+    second: DoppelSlime_27
+  - first:
+      213: 8498297091864511395
+    second: DoppelSlime_28
+  - first:
+      213: -7491965847649587029
+    second: DoppelSlime_29
+  - first:
+      213: 5220520945075376074
+    second: DoppelSlime_30
+  - first:
+      213: 3085551277478574451
+    second: DoppelSlime_31
+  - first:
+      213: -9133471123114005125
+    second: DoppelSlime_32
+  - first:
+      213: -9015901537341639075
+    second: DoppelSlime_33
+  - first:
+      213: -3071221744487197089
+    second: DoppelSlime_34
+  - first:
+      213: 2832862155721597745
+    second: DoppelSlime_35
+  - first:
+      213: 4586286797526405969
+    second: DoppelSlime_36
+  - first:
+      213: -8609675953422602414
+    second: DoppelSlime_37
+  - first:
+      213: -3566771630708365434
+    second: DoppelSlime_38
+  - first:
+      213: -5314380239957962540
+    second: DoppelSlime_39
+  - first:
+      213: 785841999981819278
+    second: DoppelSlime_40
+  - first:
+      213: 2626161919821775464
+    second: DoppelSlime_41
+  - first:
+      213: 1891418335492920104
+    second: DoppelSlime_42
+  - first:
+      213: -3669345612442054932
+    second: DoppelSlime_43
+  - first:
+      213: -8477811116250884742
+    second: DoppelSlime_44
+  - first:
+      213: 6527036906326909512
+    second: DoppelSlime_45
+  - first:
+      213: -8874554567847673735
+    second: DoppelSlime_46
+  - first:
+      213: 879971411173761113
+    second: DoppelSlime_47
+  - first:
+      213: -1798394587764212998
+    second: DoppelSlime_48
+  - first:
+      213: 7473868202102944466
+    second: DoppelSlime_49
+  - first:
+      213: 6173797274269776904
+    second: DoppelSlime_50
+  - first:
+      213: -4242633905387489327
+    second: DoppelSlime_51
+  - first:
+      213: 7664688198892977543
+    second: DoppelSlime_52
+  - first:
+      213: -2318423785258230157
+    second: DoppelSlime_53
+  - first:
+      213: 1239869407083648480
+    second: DoppelSlime_54
+  - first:
+      213: -1307660095770916645
+    second: DoppelSlime_55
+  - first:
+      213: -6284038084015467935
+    second: DoppelSlime_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DoppelSlime_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1920
+        width: 119
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8580430bcde2c0530800000000000000
+      internalID: 3822481709114591320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_1
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1919
+        width: 120
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1537f3080e5459660800000000000000
+      internalID: 7391891193925170001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_2
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1919
+        width: 121
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65121d3fd2bbc420800000000000000
+      internalID: 2651409477509715306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_3
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1920
+        width: 239
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf063acdc6e56a0e0800000000000000
+      internalID: -2259014341428551428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_4
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1919
+        width: 348
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcb9158ec0545af0800000000000000
+      internalID: -408612818257330958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_5
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1919
+        width: 338
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce548871bc59ad4c0800000000000000
+      internalID: -4261929397847046676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_6
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 1920
+        width: 119
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a356f62086be86bc0800000000000000
+      internalID: -3789520254482291398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_7
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 1919
+        width: 120
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a559a4ff4d70fc370800000000000000
+      internalID: 8344897245938357594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_8
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 1919
+        width: 121
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043a3c059e191fb40800000000000000
+      internalID: 5472315453500269376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1536
+        width: 119
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17be0bc359e97770800000000000000
+      internalID: 8609168708793710366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_10
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1535
+        width: 120
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c45bb8d6171538f0800000000000000
+      internalID: -561517191644883776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_11
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1535
+        width: 121
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab51f47037b25540800000000000000
+      internalID: 4995256355455589291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_12
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1536
+        width: 239
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29f6f502158dc340800000000000000
+      internalID: 4885707483222833454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_13
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1535
+        width: 348
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f611fd58b82bdd0c0800000000000000
+      internalID: -4549283736258145937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_14
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1535
+        width: 338
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d93056777f95c40800000000000000
+      internalID: 5501700511977676156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_15
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 1536
+        width: 108
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edb84efd87561190800000000000000
+      internalID: -7992104221354181152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_16
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 1535
+        width: 109
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73ae874197410ca0800000000000000
+      internalID: -6052477734912875654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_17
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 1535
+        width: 110
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b89722ba86169e10800000000000000
+      internalID: 2203973852594673846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1152
+        width: 119
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80624db72be5f2a50800000000000000
+      internalID: 6498516907993605640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_19
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1151
+        width: 120
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c32fc371e0dc2930800000000000000
+      internalID: 4119897425866335172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_20
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1151
+        width: 121
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53dce744449e1120800000000000000
+      internalID: 2386507873538331487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_21
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1152
+        width: 239
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4092097fa22598170800000000000000
+      internalID: 8181160542590740740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_22
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1151
+        width: 348
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa11464c3889a7890800000000000000
+      internalID: -7459482141082775126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_23
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1151
+        width: 338
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a291148b31cdb40800000000000000
+      internalID: 5466265729808018048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_24
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 1152
+        width: 108
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1561fbb29329e8a0800000000000000
+      internalID: -6275445492638718690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_25
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 1151
+        width: 109
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56d8c33b9981b9f0800000000000000
+      internalID: -454430787705973153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_26
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 1151
+        width: 110
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820e0988ce2e36ff0800000000000000
+      internalID: -43942065812217816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_27
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 768
+        width: 119
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f787f321b0bcf40800000000000000
+      internalID: 5749701522270748472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_28
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 767
+        width: 120
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3c15cdd2400f570800000000000000
+      internalID: 8498297091864511395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 767
+        width: 121
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0fc7571c0370890800000000000000
+      internalID: -7491965847649587029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_30
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 767
+        width: 282
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf44b9d324037840800000000000000
+      internalID: 5220520945075376074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_31
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 767
+        width: 282
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379fc56f98412da20800000000000000
+      internalID: 3085551277478574451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_32
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 767
+        width: 282
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d608c97646f3180800000000000000
+      internalID: -9133471123114005125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_33
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 768
+        width: 108
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d567ad0f15511e280800000000000000
+      internalID: -9015901537341639075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_34
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 767
+        width: 109
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56926d6814d065d0800000000000000
+      internalID: -3071221744487197089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_35
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 767
+        width: 110
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133ee691f19505720800000000000000
+      internalID: 2832862155721597745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_36
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 383
+        width: 162
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15310ac0b83c5af30800000000000000
+      internalID: 4586286797526405969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_37
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 462
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fe50d1659448880800000000000000
+      internalID: -8609675953422602414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_38
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 383
+        width: 162
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687efa47918408ec0800000000000000
+      internalID: -3566771630708365434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_39
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 462
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d053fb14578f36b0800000000000000
+      internalID: -5314380239957962540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_40
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 383
+        width: 162
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85bf7aa22fd7ea00800000000000000
+      internalID: 785841999981819278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_41
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 462
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86282a12a50027420800000000000000
+      internalID: 2626161919821775464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_42
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 383
+        width: 271
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82357b874faaf3a10800000000000000
+      internalID: 1891418335492920104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_43
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 383
+        width: 271
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceec0444b9dd31dc0800000000000000
+      internalID: -3669345612442054932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_44
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 383
+        width: 271
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75120705b3c85a80800000000000000
+      internalID: -8477811116250884742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_45
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 384
+        width: 108
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842ea7d0c71b49a50800000000000000
+      internalID: 6527036906326909512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_46
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 383
+        width: 109
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9708e93d3af37d480800000000000000
+      internalID: -8874554567847673735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_47
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 383
+        width: 110
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950e28f0659463c00800000000000000
+      internalID: 879971411173761113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_48
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 119
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa345696a1da07e0800000000000000
+      internalID: -1798394587764212998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_49
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0
+        width: 120
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2fe64188388b760800000000000000
+      internalID: 7473868202102944466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_50
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 121
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cff1829ebbda550800000000000000
+      internalID: 6173797274269776904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_51
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 0
+        width: 239
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7b95501f22f15c0800000000000000
+      internalID: -4242633905387489327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_52
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 0
+        width: 348
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78df421ce417e5a60800000000000000
+      internalID: 7664688198892977543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_53
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 0
+        width: 338
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37eddd0d9dd43dfd0800000000000000
+      internalID: -2318423785258230157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_54
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 0
+        width: 131
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5581918a6e43110800000000000000
+      internalID: 1239869407083648480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_55
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 0
+        width: 131
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd80f9832124adde0800000000000000
+      internalID: -1307660095770916645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoppelSlime_56
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 0
+        width: 131
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1625b3728ac9ac8a0800000000000000
+      internalID: -6284038084015467935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

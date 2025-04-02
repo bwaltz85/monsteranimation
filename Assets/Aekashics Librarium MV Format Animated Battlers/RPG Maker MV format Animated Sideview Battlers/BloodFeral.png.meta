@@ -1,0 +1,2905 @@
+fileFormatVersion: 2
+guid: 36ed9ea6558c218428df67ac4b3dbc73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6695155091641978593
+    second: BloodFeral_0
+  - first:
+      213: -468627496387859682
+    second: BloodFeral_1
+  - first:
+      213: 783184770484405595
+    second: BloodFeral_2
+  - first:
+      213: -4143226518936133011
+    second: BloodFeral_3
+  - first:
+      213: -7154929483947273937
+    second: BloodFeral_4
+  - first:
+      213: -964960080488307037
+    second: BloodFeral_5
+  - first:
+      213: 8651017139601156445
+    second: BloodFeral_6
+  - first:
+      213: -2356317007239522723
+    second: BloodFeral_7
+  - first:
+      213: -1118326224398870714
+    second: BloodFeral_8
+  - first:
+      213: 7689900950921818337
+    second: BloodFeral_9
+  - first:
+      213: 8930962501586535963
+    second: BloodFeral_10
+  - first:
+      213: -9082503501407492485
+    second: BloodFeral_11
+  - first:
+      213: 5726410326774325524
+    second: BloodFeral_12
+  - first:
+      213: 7673693126071772732
+    second: BloodFeral_13
+  - first:
+      213: 7255050657586887093
+    second: BloodFeral_14
+  - first:
+      213: -5259803300173640030
+    second: BloodFeral_15
+  - first:
+      213: 5324089686452800640
+    second: BloodFeral_16
+  - first:
+      213: -5356203889145450625
+    second: BloodFeral_17
+  - first:
+      213: -2070850487931688655
+    second: BloodFeral_18
+  - first:
+      213: -5375862616580527516
+    second: BloodFeral_19
+  - first:
+      213: -1130271879877583298
+    second: BloodFeral_20
+  - first:
+      213: 7191095878394158666
+    second: BloodFeral_21
+  - first:
+      213: -2309590321241770253
+    second: BloodFeral_22
+  - first:
+      213: 847707787364725916
+    second: BloodFeral_23
+  - first:
+      213: -6996326345699145114
+    second: BloodFeral_24
+  - first:
+      213: 5436135436966380244
+    second: BloodFeral_25
+  - first:
+      213: 6088634166507661888
+    second: BloodFeral_26
+  - first:
+      213: 3795504360810826203
+    second: BloodFeral_27
+  - first:
+      213: -8065042160855388112
+    second: BloodFeral_28
+  - first:
+      213: 8872065717799662806
+    second: BloodFeral_29
+  - first:
+      213: 9183895182557264015
+    second: BloodFeral_30
+  - first:
+      213: -3502782855287907433
+    second: BloodFeral_31
+  - first:
+      213: 574320830206877723
+    second: BloodFeral_32
+  - first:
+      213: 8171923460078752199
+    second: BloodFeral_33
+  - first:
+      213: -3782134810973838916
+    second: BloodFeral_34
+  - first:
+      213: -7637112542198630901
+    second: BloodFeral_35
+  - first:
+      213: -4902721743438117272
+    second: BloodFeral_36
+  - first:
+      213: -1724306459010266137
+    second: BloodFeral_37
+  - first:
+      213: 4956269775240735131
+    second: BloodFeral_38
+  - first:
+      213: 8599058661700334859
+    second: BloodFeral_39
+  - first:
+      213: 3635420043285393845
+    second: BloodFeral_40
+  - first:
+      213: -1329697223399099846
+    second: BloodFeral_41
+  - first:
+      213: -3411218359119544828
+    second: BloodFeral_42
+  - first:
+      213: -6231195467826572546
+    second: BloodFeral_43
+  - first:
+      213: -3697452520342155226
+    second: BloodFeral_44
+  - first:
+      213: 546376842044038268
+    second: BloodFeral_45
+  - first:
+      213: -5744894784702617523
+    second: BloodFeral_46
+  - first:
+      213: -3462617096340857676
+    second: BloodFeral_47
+  - first:
+      213: 659759061195263139
+    second: BloodFeral_48
+  - first:
+      213: 1374610719079491121
+    second: BloodFeral_49
+  - first:
+      213: -8990711457874422305
+    second: BloodFeral_50
+  - first:
+      213: -4056920811290523351
+    second: BloodFeral_51
+  - first:
+      213: 4585683942941027857
+    second: BloodFeral_52
+  - first:
+      213: -7775962780689087344
+    second: BloodFeral_53
+  - first:
+      213: 6415302968627178126
+    second: BloodFeral_54
+  - first:
+      213: 8543172663520973101
+    second: BloodFeral_55
+  - first:
+      213: 6254328191924123123
+    second: BloodFeral_56
+  - first:
+      213: -2778698331616251092
+    second: BloodFeral_57
+  - first:
+      213: 167726587951329204
+    second: BloodFeral_58
+  - first:
+      213: 316941300071584254
+    second: BloodFeral_59
+  - first:
+      213: 882647487116738510
+    second: BloodFeral_60
+  - first:
+      213: -3765434166764564131
+    second: BloodFeral_61
+  - first:
+      213: 1290987924548236793
+    second: BloodFeral_62
+  - first:
+      213: 4909554725970015170
+    second: BloodFeral_63
+  - first:
+      213: -915654457247844239
+    second: BloodFeral_64
+  - first:
+      213: -8918976546120163646
+    second: BloodFeral_65
+  - first:
+      213: -2786365590563278682
+    second: BloodFeral_66
+  - first:
+      213: 4273951727951045808
+    second: BloodFeral_67
+  - first:
+      213: 4550688266710809888
+    second: BloodFeral_68
+  - first:
+      213: 1905792865315555948
+    second: BloodFeral_69
+  - first:
+      213: 6081849694526693251
+    second: BloodFeral_70
+  - first:
+      213: 5413372429638696629
+    second: BloodFeral_71
+  - first:
+      213: 6163068099338145667
+    second: BloodFeral_72
+  - first:
+      213: 4440600387267936070
+    second: BloodFeral_73
+  - first:
+      213: 1169635730409699597
+    second: BloodFeral_74
+  - first:
+      213: -1850466329200133242
+    second: BloodFeral_75
+  - first:
+      213: -8496753574984672366
+    second: BloodFeral_76
+  - first:
+      213: 376337514093366974
+    second: BloodFeral_77
+  - first:
+      213: 8548605170434175422
+    second: BloodFeral_78
+  - first:
+      213: -4727633678249915273
+    second: BloodFeral_79
+  - first:
+      213: 4766131754071240800
+    second: BloodFeral_80
+  - first:
+      213: 5692540557187740780
+    second: BloodFeral_81
+  - first:
+      213: -6047112457047585005
+    second: BloodFeral_82
+  - first:
+      213: 6047150814935616319
+    second: BloodFeral_83
+  - first:
+      213: 2454935542590297774
+    second: BloodFeral_84
+  - first:
+      213: -5283272382986605751
+    second: BloodFeral_85
+  - first:
+      213: 5902033834313994813
+    second: BloodFeral_86
+  - first:
+      213: -8592860757610542917
+    second: BloodFeral_87
+  - first:
+      213: -6161327464101335277
+    second: BloodFeral_88
+  - first:
+      213: -997316569197120737
+    second: BloodFeral_89
+  - first:
+      213: 4445774713383519517
+    second: BloodFeral_90
+  - first:
+      213: -4346147548444426829
+    second: BloodFeral_91
+  - first:
+      213: 6534087019327280000
+    second: BloodFeral_92
+  - first:
+      213: -1576807530142063787
+    second: BloodFeral_93
+  - first:
+      213: -4936358710795778577
+    second: BloodFeral_94
+  - first:
+      213: 6592890556394640356
+    second: BloodFeral_95
+  - first:
+      213: 921293031979092734
+    second: BloodFeral_96
+  - first:
+      213: -2227903947020801034
+    second: BloodFeral_97
+  - first:
+      213: -5007658300201983300
+    second: BloodFeral_98
+  - first:
+      213: -5997394159447186037
+    second: BloodFeral_99
+  - first:
+      213: -235279162491843343
+    second: BloodFeral_100
+  - first:
+      213: -7625628560637151157
+    second: BloodFeral_101
+  - first:
+      213: 9058986560121043906
+    second: BloodFeral_102
+  - first:
+      213: 7246637242775948510
+    second: BloodFeral_103
+  - first:
+      213: -1041386149062925709
+    second: BloodFeral_104
+  - first:
+      213: 3109156365881246512
+    second: BloodFeral_105
+  - first:
+      213: 2390499618764850455
+    second: BloodFeral_106
+  - first:
+      213: -3555798896681229489
+    second: BloodFeral_107
+  - first:
+      213: -8105438985436665446
+    second: BloodFeral_108
+  - first:
+      213: -4116262715122145461
+    second: BloodFeral_109
+  - first:
+      213: -5725626373496302810
+    second: BloodFeral_110
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BloodFeral_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2581
+        width: 370
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eec7795518f9ec50800000000000000
+      internalID: 6695155091641978593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_1
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2581
+        width: 372
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b22d166c91f79f0800000000000000
+      internalID: -468627496387859682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_2
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 2581
+        width: 375
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b550836366e6eda00800000000000000
+      internalID: 783184770484405595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_3
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2584
+        width: 375
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6265dace6d4086c0800000000000000
+      internalID: -4143226518936133011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_4
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 2559
+        width: 127
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f219a54fa8594bc90800000000000000
+      internalID: -7154929483947273937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_5
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 2581
+        width: 354
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6ef0c5be5cb92f0800000000000000
+      internalID: -964960080488307037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_6
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 2581
+        width: 352
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d592ebfd0469e0870800000000000000
+      internalID: 8651017139601156445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_7
+      rect:
+        serializedVersion: 2
+        x: 3163
+        y: 2581
+        width: 370
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56d64d8a2eac4fd0800000000000000
+      internalID: -2356317007239522723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_8
+      rect:
+        serializedVersion: 2
+        x: 3673
+        y: 2581
+        width: 372
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64793bb5938ea70f0800000000000000
+      internalID: -1118326224398870714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_9
+      rect:
+        serializedVersion: 2
+        x: 4182
+        y: 2581
+        width: 375
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e032a90c2408ba60800000000000000
+      internalID: 7689900950921818337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2559
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b164661b31721fb70800000000000000
+      internalID: 8930962501586535963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_11
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2559
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b766d57cf2774f180800000000000000
+      internalID: -9082503501407492485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_12
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 2559
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41123853adb487f40800000000000000
+      internalID: 5726410326774325524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_13
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 2559
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c366ddebd3f6e7a60800000000000000
+      internalID: 7673693126071772732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_14
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 2559
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b93ee8522e1fa460800000000000000
+      internalID: 7255050657586887093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_15
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 2559
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae09b024cc6107b0800000000000000
+      internalID: -5259803300173640030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_16
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 2559
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c07519c57f2e940800000000000000
+      internalID: 5324089686452800640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_17
+      rect:
+        serializedVersion: 2
+        x: 4306
+        y: 2559
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f6be2f0f0faa5b0800000000000000
+      internalID: -5356203889145450625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2069
+        width: 275
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13923ebf37cd243e0800000000000000
+      internalID: -2070850487931688655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_19
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2333
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a6a69ce691565b0800000000000000
+      internalID: -5375862616580527516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_20
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2069
+        width: 275
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e9844b6b77050f0800000000000000
+      internalID: -1130271879877583298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_21
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 2333
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e9571f997ebc360800000000000000
+      internalID: 7191095878394158666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_22
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2069
+        width: 275
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f634bde6dfa2ffd0800000000000000
+      internalID: -2309590321241770253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_23
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 2333
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94f433cdb9a3cb00800000000000000
+      internalID: 847707787364725916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_24
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2072
+        width: 375
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a45e7b14e08ee90800000000000000
+      internalID: -6996326345699145114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_25
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 2069
+        width: 354
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d24b47c068017b40800000000000000
+      internalID: 5436135436966380244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_26
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 2069
+        width: 352
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04aeef5f38c2f7450800000000000000
+      internalID: 6088634166507661888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_27
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 2069
+        width: 370
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd943915b175ca430800000000000000
+      internalID: 3795504360810826203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_28
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 2069
+        width: 372
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0307aa792e6331090800000000000000
+      internalID: -8065042160855388112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_29
+      rect:
+        serializedVersion: 2
+        x: 4172
+        y: 2069
+        width: 375
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4be5d93c8ef1b70800000000000000
+      internalID: 8872065717799662806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_30
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2047
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f883fba9200c37f70800000000000000
+      internalID: 9183895182557264015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_31
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2047
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b5c393d8d936fc0800000000000000
+      internalID: -3502782855287907433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_32
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 2047
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10a69f80c568f700800000000000000
+      internalID: 574320830206877723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_33
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 2047
+        width: 127
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1dca91711886170800000000000000
+      internalID: 8171923460078752199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_34
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 2047
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1e3439d68238bc0800000000000000
+      internalID: -3782134810973838916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_35
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 2047
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06f1942b96830690800000000000000
+      internalID: -7637112542198630901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_36
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 2047
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86689c1dc8806fbb0800000000000000
+      internalID: -4902721743438117272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_37
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 2047
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb08ca49680218e0800000000000000
+      internalID: -1724306459010266137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_38
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 2047
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99aa34e91538c440800000000000000
+      internalID: 4956269775240735131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_39
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1557
+        width: 275
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05f4650b4ef55770800000000000000
+      internalID: 8599058661700334859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_40
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1821
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b17c51a44b937230800000000000000
+      internalID: 3635420043285393845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_41
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1557
+        width: 275
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32397c9b67fb8de0800000000000000
+      internalID: -1329697223399099846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_42
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1821
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e736dc9fae8a0d0800000000000000
+      internalID: -3411218359119544828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_43
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1557
+        width: 275
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef25c2e7cb85689a0800000000000000
+      internalID: -6231195467826572546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_44
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1821
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620122fc58200bcc0800000000000000
+      internalID: -3697452520342155226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_45
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1560
+        width: 375
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cd88fc7de159700800000000000000
+      internalID: 546376842044038268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_46
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 1557
+        width: 354
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d486ecd81a80640b0800000000000000
+      internalID: -5744894784702617523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_47
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 1557
+        width: 352
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc986bb81052ffc0800000000000000
+      internalID: -3462617096340857676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_48
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 1557
+        width: 370
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac83efde5fe72900800000000000000
+      internalID: 659759061195263139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_49
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 1557
+        width: 372
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1366d2f7a29931310800000000000000
+      internalID: 1374610719079491121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_50
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 1557
+        width: 374
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd55c5b50939a3380800000000000000
+      internalID: -8990711457874422305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_51
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1535
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9298321440ce2b7c0800000000000000
+      internalID: -4056920811290523351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_52
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1535
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e6637004f93af30800000000000000
+      internalID: 4585683942941027857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_53
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1535
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0944e5ebc0b361490800000000000000
+      internalID: -7775962780689087344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_54
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1535
+        width: 127
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a288b6f0cb70950800000000000000
+      internalID: 6415302968627178126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_55
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 1535
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21def716427f8670800000000000000
+      internalID: 8543172663520973101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_56
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 1535
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5395c8a56dbc650800000000000000
+      internalID: 6254328191924123123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_57
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1535
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23fa0ee6941079d0800000000000000
+      internalID: -2778698331616251092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_58
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 1535
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf2a3e6172e35200800000000000000
+      internalID: 167726587951329204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_59
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 1535
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1da65ee60066400800000000000000
+      internalID: 316941300071584254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_60
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1045
+        width: 370
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecffb7b863bcf3c00800000000000000
+      internalID: 882647487116738510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_61
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1045
+        width: 372
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5111e0539d7ebbc0800000000000000
+      internalID: -3765434166764564131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_62
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1045
+        width: 375
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5340c6da28ae110800000000000000
+      internalID: 1290987924548236793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_63
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1044
+        width: 424
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c378c6e20e322440800000000000000
+      internalID: 4909554725970015170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_64
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 1044
+        width: 424
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1783dba5f11fa43f0800000000000000
+      internalID: -915654457247844239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_65
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1044
+        width: 424
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce9778061e693480800000000000000
+      internalID: -8918976546120163646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_66
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 1045
+        width: 370
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0ba181247d459d0800000000000000
+      internalID: -2786365590563278682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_67
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 1045
+        width: 372
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b460b3c370205b30800000000000000
+      internalID: 4273951727951045808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_68
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 1045
+        width: 374
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02df5d43eda472f30800000000000000
+      internalID: 4550688266710809888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_69
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1023
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a8b90838cb27a10800000000000000
+      internalID: 1905792865315555948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_70
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1023
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fd49bf212176450800000000000000
+      internalID: 6081849694526693251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_71
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1023
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bef1812b89202b40800000000000000
+      internalID: 5413372429638696629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_72
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1023
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f879378cd978550800000000000000
+      internalID: 6163068099338145667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_73
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1023
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f3190668e20ad30800000000000000
+      internalID: 4440600387267936070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_74
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 1023
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09bca3ff716b3010800000000000000
+      internalID: 1169635730409699597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_75
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1023
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b74338da2d156e0800000000000000
+      internalID: -1850466329200133242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_76
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 1023
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b120b24a7751a80800000000000000
+      internalID: -8496753574984672366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_77
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 1023
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe4033a9f4093500800000000000000
+      internalID: 376337514093366974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_78
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 531
+        width: 404
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1fbcc2c1fb2a670800000000000000
+      internalID: 8548605170434175422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_79
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 531
+        width: 404
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c8dbbb732146eb0800000000000000
+      internalID: -4727633678249915273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_80
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 531
+        width: 404
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060302a0493b42240800000000000000
+      internalID: 4766131754071240800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_81
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 532
+        width: 424
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64fda4f977fffe40800000000000000
+      internalID: 5692540557187740780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_82
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 532
+        width: 424
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fc6d06247541ca0800000000000000
+      internalID: -6047112457047585005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_83
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 532
+        width: 424
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b837380abcbe350800000000000000
+      internalID: 6047150814935616319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_84
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 533
+        width: 370
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea653928edea11220800000000000000
+      internalID: 2454935542590297774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_85
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 533
+        width: 372
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ba37872cb0ea6b0800000000000000
+      internalID: -5283272382986605751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_86
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 533
+        width: 374
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d325f92808c38e150800000000000000
+      internalID: 5902033834313994813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_87
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 511
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8ca3afaa600c880800000000000000
+      internalID: -8592860757610542917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_88
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 511
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fa165c0519e7aa0800000000000000
+      internalID: -6161327464101335277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_89
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 511
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13f4644dd1d822f0800000000000000
+      internalID: -997316569197120737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_90
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 511
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1583ae0c8092bd30800000000000000
+      internalID: 4445774713383519517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_91
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 511
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdf881e4d16fa3c0800000000000000
+      internalID: -4346147548444426829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_92
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 511
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0835e76668dbdaa50800000000000000
+      internalID: 6534087019327280000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_93
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 511
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553a8b6d7ed0e1ae0800000000000000
+      internalID: -1576807530142063787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_94
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 511
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5cc1f08e78e7bb0800000000000000
+      internalID: -4936358710795778577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_95
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 511
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e31ee8c707ae7b50800000000000000
+      internalID: 6592890556394640356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_96
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 21
+        width: 370
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa0821a12719cc00800000000000000
+      internalID: 921293031979092734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_97
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 21
+        width: 372
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb62240a25e411e0800000000000000
+      internalID: -2227903947020801034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_98
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 21
+        width: 375
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2ace3ce49318ab0800000000000000
+      internalID: -5007658300201983300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_99
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 24
+        width: 375
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85e52c99c9f4cca0800000000000000
+      internalID: -5997394159447186037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_100
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 0
+        width: 127
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc4f9829de1cbcf0800000000000000
+      internalID: -235279162491843343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_101
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 21
+        width: 354
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b483626f9335c2690800000000000000
+      internalID: -7625628560637151157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_102
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 21
+        width: 352
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb7d05a74cf7bd70800000000000000
+      internalID: 9058986560121043906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_103
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 0
+        width: 370
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcc6cf8d2a319460800000000000000
+      internalID: 7246637242775948510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_104
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 0
+        width: 372
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372a71f90d04c81f0800000000000000
+      internalID: -1041386149062925709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_105
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 0
+        width: 374
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0330f73ed31f52b20800000000000000
+      internalID: 3109156365881246512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_106
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 127
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7158f24ecb2cc2120800000000000000
+      internalID: 2390499618764850455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_107
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 127
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43e69e2eb347aec0800000000000000
+      internalID: -3555798896681229489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_108
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 0
+        width: 127
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99e17cef22b38f80800000000000000
+      internalID: -8105438985436665446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_109
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 0
+        width: 127
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47a5f69ed810e6c0800000000000000
+      internalID: -4116262715122145461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodFeral_110
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 0
+        width: 127
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6231523262d7a80b0800000000000000
+      internalID: -5725626373496302810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

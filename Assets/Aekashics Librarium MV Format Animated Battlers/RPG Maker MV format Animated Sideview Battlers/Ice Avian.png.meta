@@ -1,0 +1,2405 @@
+fileFormatVersion: 2
+guid: c8ed2bfed9581e44ab29d34fb318b88d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3390840046448569398
+    second: Ice Avian_0
+  - first:
+      213: 7492897895838470995
+    second: Ice Avian_1
+  - first:
+      213: 839224561536067788
+    second: Ice Avian_2
+  - first:
+      213: -8237849510087050089
+    second: Ice Avian_3
+  - first:
+      213: 4912087680358129214
+    second: Ice Avian_4
+  - first:
+      213: 3340716426446741276
+    second: Ice Avian_5
+  - first:
+      213: -7212688231309236330
+    second: Ice Avian_6
+  - first:
+      213: 6636934908147247605
+    second: Ice Avian_7
+  - first:
+      213: -879225115112468879
+    second: Ice Avian_8
+  - first:
+      213: 6844906338081643479
+    second: Ice Avian_9
+  - first:
+      213: -5508182178087574292
+    second: Ice Avian_10
+  - first:
+      213: 5312550395229475447
+    second: Ice Avian_11
+  - first:
+      213: -3420632132447781400
+    second: Ice Avian_12
+  - first:
+      213: 3708979362741151008
+    second: Ice Avian_13
+  - first:
+      213: -1498795925346710817
+    second: Ice Avian_14
+  - first:
+      213: 5738573849181577904
+    second: Ice Avian_15
+  - first:
+      213: -1366470959849843688
+    second: Ice Avian_16
+  - first:
+      213: -3702833108772720719
+    second: Ice Avian_17
+  - first:
+      213: 5350578697730864688
+    second: Ice Avian_18
+  - first:
+      213: -1108666402752640235
+    second: Ice Avian_19
+  - first:
+      213: 4925482903240297502
+    second: Ice Avian_20
+  - first:
+      213: 6615177893980086119
+    second: Ice Avian_21
+  - first:
+      213: -3389833511542861807
+    second: Ice Avian_22
+  - first:
+      213: -5016556009723002336
+    second: Ice Avian_23
+  - first:
+      213: 1877833970743774358
+    second: Ice Avian_24
+  - first:
+      213: 8433923518664067302
+    second: Ice Avian_25
+  - first:
+      213: -6249727655115179016
+    second: Ice Avian_26
+  - first:
+      213: 2533966065205107913
+    second: Ice Avian_27
+  - first:
+      213: 720182737960176425
+    second: Ice Avian_28
+  - first:
+      213: -2381450693629806154
+    second: Ice Avian_29
+  - first:
+      213: -6997717011179198810
+    second: Ice Avian_30
+  - first:
+      213: -3277022948191408729
+    second: Ice Avian_31
+  - first:
+      213: 1415487984472195912
+    second: Ice Avian_32
+  - first:
+      213: -5969305132131681829
+    second: Ice Avian_33
+  - first:
+      213: -4740303026714141208
+    second: Ice Avian_34
+  - first:
+      213: 62868622672585407
+    second: Ice Avian_35
+  - first:
+      213: 8813731681222687223
+    second: Ice Avian_36
+  - first:
+      213: 2530103838643378620
+    second: Ice Avian_37
+  - first:
+      213: -6593337762956121913
+    second: Ice Avian_38
+  - first:
+      213: 977891705193935413
+    second: Ice Avian_39
+  - first:
+      213: 6167990433137141481
+    second: Ice Avian_40
+  - first:
+      213: 3389025669473665454
+    second: Ice Avian_41
+  - first:
+      213: 8400698051105440532
+    second: Ice Avian_42
+  - first:
+      213: -3181040829693358579
+    second: Ice Avian_43
+  - first:
+      213: -5941398536605449759
+    second: Ice Avian_44
+  - first:
+      213: 52157997621587171
+    second: Ice Avian_45
+  - first:
+      213: 1872795200811145336
+    second: Ice Avian_46
+  - first:
+      213: -1644522464139068575
+    second: Ice Avian_47
+  - first:
+      213: -957584939101276845
+    second: Ice Avian_48
+  - first:
+      213: 4686776538583377050
+    second: Ice Avian_49
+  - first:
+      213: 5252602375149495187
+    second: Ice Avian_50
+  - first:
+      213: -2859857426553906747
+    second: Ice Avian_51
+  - first:
+      213: 3812787937950049178
+    second: Ice Avian_52
+  - first:
+      213: -7483012968887762798
+    second: Ice Avian_53
+  - first:
+      213: 6310989585366322677
+    second: Ice Avian_54
+  - first:
+      213: 2669086943301278486
+    second: Ice Avian_55
+  - first:
+      213: -3403370105239176616
+    second: Ice Avian_56
+  - first:
+      213: 3702853621027135272
+    second: Ice Avian_57
+  - first:
+      213: -3529122046727158581
+    second: Ice Avian_58
+  - first:
+      213: -8137585144274477214
+    second: Ice Avian_59
+  - first:
+      213: 5919879837692751395
+    second: Ice Avian_60
+  - first:
+      213: 5279781472562830188
+    second: Ice Avian_61
+  - first:
+      213: 1038494798159137936
+    second: Ice Avian_62
+  - first:
+      213: -5538529521102145698
+    second: Ice Avian_63
+  - first:
+      213: 6140591468084548311
+    second: Ice Avian_64
+  - first:
+      213: -1652442081932577238
+    second: Ice Avian_65
+  - first:
+      213: -6664834582446394655
+    second: Ice Avian_66
+  - first:
+      213: 150694594894990114
+    second: Ice Avian_67
+  - first:
+      213: 1965062767454386192
+    second: Ice Avian_68
+  - first:
+      213: -2220156794275579926
+    second: Ice Avian_69
+  - first:
+      213: -836953042871238849
+    second: Ice Avian_70
+  - first:
+      213: -3443023321740835625
+    second: Ice Avian_71
+  - first:
+      213: -6404838454247111839
+    second: Ice Avian_72
+  - first:
+      213: -7269571943774151091
+    second: Ice Avian_73
+  - first:
+      213: -478298663727449524
+    second: Ice Avian_74
+  - first:
+      213: -2270755873987223662
+    second: Ice Avian_75
+  - first:
+      213: 2821731947027473016
+    second: Ice Avian_76
+  - first:
+      213: 8939070432379621480
+    second: Ice Avian_77
+  - first:
+      213: 4936339299898089
+    second: Ice Avian_78
+  - first:
+      213: -5375344194022784270
+    second: Ice Avian_79
+  - first:
+      213: -1333440500335315189
+    second: Ice Avian_80
+  - first:
+      213: -3167977393707000313
+    second: Ice Avian_81
+  - first:
+      213: 2350208164878746410
+    second: Ice Avian_82
+  - first:
+      213: 2271898289885939598
+    second: Ice Avian_83
+  - first:
+      213: -5910923350560999927
+    second: Ice Avian_84
+  - first:
+      213: -8280829032191984895
+    second: Ice Avian_85
+  - first:
+      213: -1930999571276963370
+    second: Ice Avian_86
+  - first:
+      213: 9180800694583499284
+    second: Ice Avian_87
+  - first:
+      213: 2555237413363873319
+    second: Ice Avian_88
+  - first:
+      213: 969262602362897158
+    second: Ice Avian_89
+  - first:
+      213: 419535905551278441
+    second: Ice Avian_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice Avian_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2559
+        width: 439
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c6cba8e0fae0f20800000000000000
+      internalID: 3390840046448569398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_1
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2559
+        width: 444
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35359bbefee1cf760800000000000000
+      internalID: 7492897895838470995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_2
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 2559
+        width: 447
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8e325da4685ab00800000000000000
+      internalID: 839224561536067788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_3
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 2559
+        width: 412
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cb22e34874dad80800000000000000
+      internalID: -8237849510087050089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_4
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 2574
+        width: 373
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e915d48bd3b2440800000000000000
+      internalID: 4912087680358129214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_5
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 2801
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f9ba5d3eb9c5e20800000000000000
+      internalID: 3340716426446741276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_6
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 2574
+        width: 418
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6972c21a44267eb90800000000000000
+      internalID: -7212688231309236330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_7
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 2733
+        width: 260
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9a18d82212b1c50800000000000000
+      internalID: 6636934908147247605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_8
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 2559
+        width: 519
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e8e188a6d5cc3f0800000000000000
+      internalID: -879225115112468879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_9
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 2559
+        width: 455
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db1d227c0efdfe50800000000000000
+      internalID: 6844906338081643479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_10
+      rect:
+        serializedVersion: 2
+        x: 4232
+        y: 2559
+        width: 329
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4e3fc1e710f83b0800000000000000
+      internalID: -5508182178087574292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_11
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 2679
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7729307ff68f9b940800000000000000
+      internalID: 5312550395229475447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_12
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 2667
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edb926e2397780d0800000000000000
+      internalID: -3420632132447781400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_13
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 2679
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025e0735411f87330800000000000000
+      internalID: 3708979362741151008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_14
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 2670
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda08eefb05333be0800000000000000
+      internalID: -1498795925346710817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_15
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 2670
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b260d5f28283af40800000000000000
+      internalID: 5738573849181577904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2047
+        width: 412
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8145342e6e1590de0800000000000000
+      internalID: -1366470959849843688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_17
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2047
+        width: 412
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfeb01f7e4ec9cc0800000000000000
+      internalID: -3702833108772720719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_18
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 2047
+        width: 417
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036350d1af2114a40800000000000000
+      internalID: 5350578697730864688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_19
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 2047
+        width: 412
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bc489d7c93d90f0800000000000000
+      internalID: -1108666402752640235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_20
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 2048
+        width: 266
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cc5eaaa94da5440800000000000000
+      internalID: 4925482903240297502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_21
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 2284
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f13b0fe35ddcb50800000000000000
+      internalID: 6615177893980086119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_22
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 2049
+        width: 351
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110d5c0a164e4f0d0800000000000000
+      internalID: -3389833511542861807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_23
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 2284
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0220c9453ec916ab0800000000000000
+      internalID: -5016556009723002336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_24
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 2047
+        width: 540
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c08551c086f0a10800000000000000
+      internalID: 1877833970743774358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_25
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 2047
+        width: 444
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8c8c061c05b0570800000000000000
+      internalID: 8433923518664067302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_26
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 2047
+        width: 447
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbbce56fc18449a0800000000000000
+      internalID: -6249727655115179016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_27
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 2224
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccd175f5b47a2320800000000000000
+      internalID: 2533966065205107913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_28
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 2224
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b0c7d626a9ef900800000000000000
+      internalID: 720182737960176425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_29
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 2153
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9761c263363fed0800000000000000
+      internalID: -2381450693629806154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_30
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 2126
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6a4fd247d13ee90800000000000000
+      internalID: -6997717011179198810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_31
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 2153
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad6f34bdfca582d0800000000000000
+      internalID: -3277022948191408729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_32
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 2126
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8438c4282d2d4a310800000000000000
+      internalID: 1415487984472195912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_33
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1535
+        width: 412
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9ff5beb94c82da0800000000000000
+      internalID: -5969305132131681829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_34
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1535
+        width: 412
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed9efc238f073eb0800000000000000
+      internalID: -4740303026714141208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_35
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1535
+        width: 417
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2eae1edaa5fd000800000000000000
+      internalID: 62868622672585407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_36
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1535
+        width: 412
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f972e4544aa05a70800000000000000
+      internalID: 8813731681222687223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_37
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 1550
+        width: 266
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9d033490cbc1320800000000000000
+      internalID: 2530103838643378620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_38
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 1777
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8e4d2dc32cf74a0800000000000000
+      internalID: -6593337762956121913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_39
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 1550
+        width: 351
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532b2e4235b229d00800000000000000
+      internalID: 977891705193935413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_40
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 1777
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6a5299e9a199550800000000000000
+      internalID: 6167990433137141481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_41
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 1535
+        width: 541
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea188abf3ec380f20800000000000000
+      internalID: 3389025669473665454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_42
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 1535
+        width: 444
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413c4716e56459470800000000000000
+      internalID: 8400698051105440532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_43
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 1535
+        width: 447
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e0d12283caad3d0800000000000000
+      internalID: -3181040829693358579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_44
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1717
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e14b948289eb8da0800000000000000
+      internalID: -5941398536605449759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_45
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 1717
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec2e682c6d49b000800000000000000
+      internalID: 52157997621587171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_46
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1646
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878976900518df910800000000000000
+      internalID: 1872795200811145336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_47
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 1619
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b37db288b7d29e0800000000000000
+      internalID: -1644522464139068575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_48
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 1646
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355ba964299f5b2f0800000000000000
+      internalID: -957584939101276845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_49
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 1619
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94a5e32e66ca0140800000000000000
+      internalID: 4686776538583377050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_50
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1023
+        width: 325
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393a82dd70ef4e840800000000000000
+      internalID: 5252602375149495187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_51
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1209
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9ddfd92debf48d0800000000000000
+      internalID: -2859857426553906747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_52
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1023
+        width: 403
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a932865bd6eb9e430800000000000000
+      internalID: 3812787937950049178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_53
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1209
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290cdcbf95ff62890800000000000000
+      internalID: -7483012968887762798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_54
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1023
+        width: 403
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd03f04793259750800000000000000
+      internalID: 6310989585366322677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_55
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1209
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b1b1afe608a0520800000000000000
+      internalID: 2669086943301278486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_56
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1023
+        width: 510
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85af80ecbecc4c0d0800000000000000
+      internalID: -3403370105239176616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_57
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 1023
+        width: 425
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f5790ffbd236330800000000000000
+      internalID: 3702853621027135272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_58
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1023
+        width: 425
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc404d3523a060fc0800000000000000
+      internalID: -3529122046727158581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_59
+      rect:
+        serializedVersion: 2
+        x: 3106
+        y: 1023
+        width: 439
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f16021d6d711f80800000000000000
+      internalID: -8137585144274477214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_60
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 1023
+        width: 444
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e6ca6f853a72250800000000000000
+      internalID: 5919879837692751395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_61
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 1023
+        width: 447
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bdbcb964d854940800000000000000
+      internalID: 5279781472562830188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_62
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1156
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ccd594489796e00800000000000000
+      internalID: 1038494798159137936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_63
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1156
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5731b4beb03323b0800000000000000
+      internalID: -5538529521102145698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_64
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1156
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d259fde763c73550800000000000000
+      internalID: 6140591468084548311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_65
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 511
+        width: 428
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2670867ea85119e0800000000000000
+      internalID: -1652442081932577238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_66
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 511
+        width: 428
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e23b825240c183a0800000000000000
+      internalID: -6664834582446394655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_67
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 511
+        width: 428
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b89468fef571200800000000000000
+      internalID: 150694594894990114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_68
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 511
+        width: 425
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018f677fc2e454b10800000000000000
+      internalID: 1965062767454386192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_69
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 511
+        width: 425
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7b883982b6031e0800000000000000
+      internalID: -2220156794275579926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_70
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 511
+        width: 425
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f3af154ab8264f0800000000000000
+      internalID: -836953042871238849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_71
+      rect:
+        serializedVersion: 2
+        x: 3106
+        y: 511
+        width: 439
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d48042e78ce730d0800000000000000
+      internalID: -3443023321740835625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_72
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 511
+        width: 444
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163c6d23c517d17a0800000000000000
+      internalID: -6404838454247111839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_73
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 511
+        width: 447
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e123e35da4d1b90800000000000000
+      internalID: -7269571943774151091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 541
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a3bf346edbc59f0800000000000000
+      internalID: -478298663727449524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_75
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 0
+        width: 455
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f1c574097ac70e0800000000000000
+      internalID: -2270755873987223662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_76
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 0
+        width: 329
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872a1f1714ec82720800000000000000
+      internalID: 2821731947027473016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_77
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 0
+        width: 412
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8605f207235fd0c70800000000000000
+      internalID: 8939070432379621480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_78
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 0
+        width: 266
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2167e0399811000800000000000000
+      internalID: 4936339299898089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_79
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 236
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f240d17fe0f665b0800000000000000
+      internalID: -5375344194022784270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_80
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 1
+        width: 351
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07f4680eeaae7de0800000000000000
+      internalID: -1333440500335315189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_81
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 236
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e50a758551904d0800000000000000
+      internalID: -3167977393707000313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_82
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 0
+        width: 540
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2302dfbfdd9d9020800000000000000
+      internalID: 2350208164878746410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_83
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 0
+        width: 444
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8708762577678f10800000000000000
+      internalID: 2271898289885939598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_84
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 0
+        width: 447
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906ff33b78e28fda0800000000000000
+      internalID: -5910923350560999927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_85
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 176
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b74727ed5941d80800000000000000
+      internalID: -8280829032191984895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_86
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 176
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1ea9cee16b335e0800000000000000
+      internalID: -1930999571276963370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_87
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 105
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a1f4af691c86f70800000000000000
+      internalID: 9180800694583499284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_88
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 78
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7267754a3e6067320800000000000000
+      internalID: 2555237413363873319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_89
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 105
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60349e39333837d00800000000000000
+      internalID: 969262602362897158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Avian_90
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 78
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961e7eceead72d500800000000000000
+      internalID: 419535905551278441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,19 +1,35 @@
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class MoveButton : MonoBehaviour
 {
-    public MoveManager moveManager;
-    public int moveIndex;
+    [Header("References")]
+    public TextMeshProUGUI moveText;
+    private Button button;
+    private int moveIndex;
 
-    void Start()
+    private void Awake()
     {
-        Button button = GetComponent<Button>();
-        button.onClick.AddListener(OnButtonClicked);
+        button = GetComponent<Button>();
     }
 
-    void OnButtonClicked()
+    // Called by BattleUIManager to initialize this button
+    public void Setup(string moveName, int index)
     {
-        moveManager.PerformMove(moveIndex);
+        moveIndex = index;
+        moveText.text = moveName;
+
+        button.onClick.RemoveAllListeners();
+        button.onClick.AddListener(() => OnClick());
+    }
+
+    private void OnClick()
+    {
+        GameManager gm = FindObjectOfType<GameManager>();
+        if (gm != null)
+        {
+            gm.OnPlayerMoveSelected(moveIndex);
+        }
     }
 }
