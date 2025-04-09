@@ -9,9 +9,12 @@ public class MoveButton : MonoBehaviour
     private Button button;
     private int moveIndex;
 
+    private GameManager gm; // Cached reference
+
     private void Awake()
     {
         button = GetComponent<Button>();
+        gm = FindFirstObjectByType<GameManager>(); // Unity 6 replacement for deprecated FindObjectOfType
     }
 
     // Called by BattleUIManager to initialize this button
@@ -26,10 +29,13 @@ public class MoveButton : MonoBehaviour
 
     private void OnClick()
     {
-        GameManager gm = FindObjectOfType<GameManager>();
         if (gm != null)
         {
             gm.OnPlayerMoveSelected(moveIndex);
+        }
+        else
+        {
+            Debug.LogWarning("GameManager not found in scene!");
         }
     }
 }
