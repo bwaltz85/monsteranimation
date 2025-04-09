@@ -1,10 +1,11 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
     public Player player;
     public Opponent opponent;
     public BattleUIManager uiManager;
+    public TurnManager turnManager; // ✅ Reference to TurnManager instance
 
     private bool isPlayerTurn = true;
     private bool battleEnded = false;
@@ -36,6 +37,15 @@ public class GameManager : MonoBehaviour
 
         isPlayerTurn = false;
         Invoke(nameof(OpponentTurn), 1.5f); // Short delay for pacing
+
+        if (turnManager != null)
+        {
+            turnManager.EndPlayerTurn(); // ✅ Call instance method safely
+        }
+        else
+        {
+            Debug.LogWarning("TurnManager not assigned in GameManager!");
+        }
     }
 
     void OpponentTurn()
