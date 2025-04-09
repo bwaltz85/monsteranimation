@@ -19,25 +19,6 @@ public class HitEffect : MonoBehaviour
             Debug.LogError("HitEffect: No SpriteRenderer found on " + gameObject.name);
     }
 
-    public void PlayHitEffect()
-    {
-        if (sr == null) return;
-        StopAllCoroutines();
-        StartCoroutine(HitEffectRoutine());
-    }
-    void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.H))
-        {
-            PlayHitEffect();
-        }
-
-        if (Input.GetKeyDown(KeyCode.C))
-        {
-            sr.color = Color.green;
-        }
-
-    }
 
 
     private IEnumerator HitEffectRoutine()
