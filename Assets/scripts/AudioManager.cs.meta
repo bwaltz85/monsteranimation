@@ -1,2 +1,16 @@
 fileFormatVersion: 2
 guid: 6569b1b5ab0c55742b8113a39d74c415
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicSource: {instanceID: 0}
+  - sfxSource: {instanceID: 0}
+  - victorySFX: {fileID: 8300000, guid: 2d86975b0687a1941908d3c967679a3e, type: 3}
+  - victoryMusicAfterSFX: {fileID: 8300000, guid: 4824ba0b4882a224eb5bac30d5b4d448, type: 3}
+  - lossSFX: {fileID: 8300000, guid: 3e34ff0552fc65945bba82d7fac759ae, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

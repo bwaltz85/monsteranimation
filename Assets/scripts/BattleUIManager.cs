@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
@@ -8,6 +8,7 @@ public class BattleUIManager : MonoBehaviour
     public TextMeshProUGUI playerHPText;
     public TextMeshProUGUI opponentHPText;
     public TextMeshProUGUI battleMessageText;
+    public TextMeshProUGUI turnIndicatorText;
 
     public Button[] moveButtons;
     public TextMeshProUGUI[] moveButtonTexts;
@@ -22,9 +23,11 @@ public class BattleUIManager : MonoBehaviour
             if (i < gameManager.player.playerMoves.Length)
             {
                 moveButtonTexts[i].text = gameManager.player.playerMoves[i].moveName;
-                int index = i; // capture index for the lambda
+
+                int index = i; // ✅ Capture index correctly
                 moveButtons[i].onClick.RemoveAllListeners();
                 moveButtons[i].onClick.AddListener(() => gameManager.OnPlayerMoveSelected(index));
+
                 moveButtons[i].gameObject.SetActive(true);
             }
             else
@@ -43,5 +46,13 @@ public class BattleUIManager : MonoBehaviour
     public void DisplayMessage(string message)
     {
         battleMessageText.text = message;
+    }
+
+    public void DisplayTurn(string message)
+    {
+        if (turnIndicatorText != null)
+        {
+            turnIndicatorText.text = message;
+        }
     }
 }

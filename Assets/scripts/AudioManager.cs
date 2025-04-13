@@ -1,66 +1,85 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class AudioManager : MonoBehaviour
 {
-    // Reference to the AudioSource component
-    public AudioSource audioSource;
+    public static AudioManager Instance;
 
-    // List of music tracks to cycle through
-    public List<AudioClip> musicClips = new List<AudioClip>();
+    public AudioSource musicSource;
+    public AudioSource sfxSource;
 
-    // Optional delay between tracks
-    public float delayBetweenTracks = 0.5f;
+    public List<AudioClip> battleMusicClips = new List<AudioClip>();
+    public AudioClip victoryClip;
+    public AudioClip lossClip;
+    public AudioClip postVictoryClip;
+    public AudioClip attackClip;
 
-    // Keeps track of the current track index
-    private int currentTrackIndex = 0;
+    private AudioClip previousBattleTrack;
 
-    void Start()
+    void Awake()
     {
-        // Automatically add an AudioSource component if one is not attached
-        if (audioSource == null)
+        if (Instance == null)
         {
-            audioSource = GetComponent<AudioSource>();
-            if (audioSource == null)
-            {
-                audioSource = gameObject.AddComponent<AudioSource>();
-            }
+            Instance = this;
+            DontDestroyOnLoad(gameObject);
         }
+        else Destroy(gameObject);
+    }
 
-        // Start playing if we have at least one music clip
-        if (musicClips.Count > 0)
+    public void PlayRandomBattleTrack()
+    {
+        if (battleMusicClips.Count == 0) return;
+
+        int index = Random.Range(0, battleMusicClips.Count);
+        previousBattleTrack = battleMusicClips[index];
+        musicSource.clip = previousBattleTrack;
+        musicSource.Play();
+    }
+
+    public void ResumePreviousBattleMusic()
+    {
+        if (previousBattleTrack != null)
         {
-            PlayNextTrack();
+            musicSource.clip = previousBattleTrack;
+            musicSource.Play();
         }
     }
 
-    // Plays the next track in the list
-    void PlayNextTrack()
+    public void PlayVictorySoundThenPostTrack()
     {
-        if (musicClips.Count == 0) return;
-
-        // Set the current clip and play it
-        audioSource.clip = musicClips[currentTrackIndex];
-        audioSource.Play();
-
-        // Update the track index for the next cycle
-        currentTrackIndex = (currentTrackIndex + 1) % musicClips.Count;
-
-        // Start coroutine to wait for the current track to finish
-        StartCoroutine(WaitForTrackEnd());
+        StartCoroutine(PlayVictoryAndContinue());
     }
 
-    // Coroutine that waits until the current track finishes playing, then plays the next track
-    IEnumerator WaitForTrackEnd()
+    private IEnumerator PlayVictoryAndContinue()
     {
-        // Wait until the audio clip finishes playing
-        yield return new WaitUntil(() => !audioSource.isPlaying);
+        musicSource.Stop();
+        sfxSource.PlayOneShot(victoryClip);
+        yield return new WaitForSeconds(victoryClip.length);
+        musicSource.clip = postVictoryClip;
+        musicSource.Play();
+    }
 
-        // Wait for an optional delay between tracks
-        yield return new WaitForSeconds(delayBetweenTracks);
+    public void PlayLossSound()
+    {
+        musicSource.Stop();
+        sfxSource.PlayOneShot(lossClip);
+    }
 
-        // Play the next track in the list
-        PlayNextTrack();
+    public void PlaySFX(AudioClip clip)
+    {
+        if (clip != null) sfxSource.PlayOneShot(clip);
+    }
+
+    public void PlaySFX(string clipName)
+    {
+        if (clipName == "attack" && attackClip != null)
+        {
+            sfxSource.PlayOneShot(attackClip);
+        }
+        else
+        {
+            Debug.LogWarning($"SFX '{clipName}' not found.");
+        }
     }
 }

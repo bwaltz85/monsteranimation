@@ -1472,10 +1472,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 45b0cdb7785874d4e9fe8eb8f5191e4f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flashColor: {r: 1, g: 0.048572965, b: 0, a: 1}
-  flashDuration: 0.5
-  shakeAmount: 0.05
+  flashDuration: 0.02
+  shakeDistance: 0.1
   shakeCount: 10
+  flashColor: {r: 1, g: 0, b: 0, a: 1}
 --- !u!95 &783835890 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 8297106772996698761, guid: 4c4d98e638de02c4399884f2ab49c9b8, type: 3}
@@ -1513,6 +1513,7 @@ MonoBehaviour:
   player: {fileID: 1020450557}
   opponent: {fileID: 1501037927}
   uiManager: {fileID: 218631799}
+  turnManager: {fileID: 1941392772}
 --- !u!4 &834623706
 Transform:
   m_ObjectHideFlags: 0
@@ -2062,7 +2063,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -7443756053782179069, guid: 6989f3a1526b44344a1313cd5a87242e, type: 3}
+  m_Sprite: {fileID: 4360390788417139489, guid: 6d8947483f30f6a45b2f8085b075c895, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

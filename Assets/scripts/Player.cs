@@ -1,58 +1,57 @@
-using System.Collections.Generic;
+﻿using System.Collections;
 using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    [Header("Stats")]
-    public int health = 100;
+    public int health = 1000;
     public int attackPower = 10;
+    public MoveScriptableObject[] availableMoves;
+    public MoveScriptableObject[] playerMoves;
 
-    [Header("Moves")]
-    public MoveScriptableObject[] availableMoves; // Set in Inspector
-    public MoveScriptableObject[] playerMoves;    // Filled at runtime
+    private Animator animator;
+    public HitEffect hitEffect;
 
-    public void AssignRandomMoves()
+    void Awake()
     {
-        if (availableMoves == null || availableMoves.Length == 0)
+        animator = GetComponent<Animator>();
+    }
+
+    public void AssignMoves()
+    {
+        playerMoves = MoveAssigner.AssignUniqueTypeMoves(availableMoves);
+
+        for (int i = 0; i < playerMoves.Length; i++)
         {
-            Debug.LogError("No available moves assigned to Player.");
-            return;
-        }
-
-        playerMoves = new MoveScriptableObject[4];
-        bool hasDamageMove = false;
-
-        while (!hasDamageMove)
-        {
-            for (int i = 0; i < playerMoves.Length; i++)
-            {
-                playerMoves[i] = availableMoves[Random.Range(0, availableMoves.Length)];
-
-                if (playerMoves[i].moveType == MoveType.Damage)
-                {
-                    hasDamageMove = true;
-                }
-            }
+            Debug.Log($"[ASSIGNED] Player Move Slot {i}: {playerMoves[i].moveName} ({playerMoves[i].moveType})");
         }
     }
 
     public void ExecuteMove(MoveScriptableObject move, Opponent opponent)
     {
+        StartCoroutine(AttackSequence(move, opponent));
+    }
+
+    private IEnumerator AttackSequence(MoveScriptableObject move, Opponent opponent)
+    {
+        if (move.moveType == MoveType.Damage && animator != null)
+            animator.SetTrigger("Attack");
+
+        if (move.moveType == MoveType.Damage && AudioManager.Instance != null)
+            AudioManager.Instance.PlaySFX("attack");
+
+        yield return new WaitForSeconds(0.4f);
+
         switch (move.moveType)
         {
             case MoveType.Damage:
                 opponent.TakeDamage(move.power);
                 break;
-
             case MoveType.Heal:
                 health += move.power;
-                health = Mathf.Min(health, 100); // Optional: Clamp to max health
                 break;
-
             case MoveType.Buff:
                 attackPower += move.power;
                 break;
-
             case MoveType.Debuff:
                 opponent.ApplyDebuff(move.power);
                 break;
@@ -63,5 +62,8 @@ public class Player : MonoBehaviour
     {
         health -= amount;
         health = Mathf.Max(health, 0);
+
+        if (hitEffect != null)
+            hitEffect.PlayHitEffect();
     }
 }

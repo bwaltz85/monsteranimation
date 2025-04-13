@@ -1,44 +1,46 @@
-using System.Collections;
 using UnityEngine;
 
 public class HitEffect : MonoBehaviour
 {
     private SpriteRenderer sr;
-    private Color originalColor;
-    public Color flashColor = Color.white;
-    public float flashDuration = 0.1f;
-    public float shakeAmount = 0.05f;
-    public int shakeCount = 4;
+    private Vector3 originalPosition;
 
-    void Awake()
+    [Header("Settings")]
+    public float flashDuration = 0.05f;
+    public float shakeDistance = 0.1f;
+    public int shakeCount = 5;
+    public Color flashColor = Color.red;
+
+    private void Awake()
     {
         sr = GetComponent<SpriteRenderer>();
-        if (sr != null)
-            originalColor = sr.color;
-        else
-            Debug.LogError("HitEffect: No SpriteRenderer found on " + gameObject.name);
+        originalPosition = transform.localPosition;
     }
 
-
-
-    private IEnumerator HitEffectRoutine()
+    public void PlayHitEffect()
     {
-        // Flash
-        sr.color = flashColor;
+        StartCoroutine(FlashAndShake());
+    }
 
-        // Shake (left-right jitter)
-        Vector3 originalPos = transform.localPosition;
+    private System.Collections.IEnumerator FlashAndShake()
+    {
+        if (sr != null)
+        {
+            sr.color = flashColor;
+        }
 
         for (int i = 0; i < shakeCount; i++)
         {
-            transform.localPosition = originalPos + (Vector3.right * shakeAmount);
-            yield return new WaitForSeconds(flashDuration / (shakeCount * 2));
-            transform.localPosition = originalPos + (Vector3.left * shakeAmount);
-            yield return new WaitForSeconds(flashDuration / (shakeCount * 2));
+            float offsetX = (i % 2 == 0 ? 1 : -1) * shakeDistance;
+            transform.localPosition = new Vector3(originalPosition.x + offsetX, originalPosition.y, originalPosition.z);
+            yield return new WaitForSeconds(flashDuration);
         }
 
-        transform.localPosition = originalPos;
-        sr.color = originalColor;
+        transform.localPosition = originalPosition;
+
+        if (sr != null)
+        {
+            sr.color = Color.white;
+        }
     }
 }
-
