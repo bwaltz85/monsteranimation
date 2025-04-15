@@ -1547,7 +1547,64 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DoppelSlime_0: 3822481709114591320
+      DoppelSlime_1: 7391891193925170001
+      DoppelSlime_10: -561517191644883776
+      DoppelSlime_11: 4995256355455589291
+      DoppelSlime_12: 4885707483222833454
+      DoppelSlime_13: -4549283736258145937
+      DoppelSlime_14: 5501700511977676156
+      DoppelSlime_15: -7992104221354181152
+      DoppelSlime_16: -6052477734912875654
+      DoppelSlime_17: 2203973852594673846
+      DoppelSlime_18: 6498516907993605640
+      DoppelSlime_19: 4119897425866335172
+      DoppelSlime_2: 2651409477509715306
+      DoppelSlime_20: 2386507873538331487
+      DoppelSlime_21: 8181160542590740740
+      DoppelSlime_22: -7459482141082775126
+      DoppelSlime_23: 5466265729808018048
+      DoppelSlime_24: -6275445492638718690
+      DoppelSlime_25: -454430787705973153
+      DoppelSlime_26: -43942065812217816
+      DoppelSlime_27: 5749701522270748472
+      DoppelSlime_28: 8498297091864511395
+      DoppelSlime_29: -7491965847649587029
+      DoppelSlime_3: -2259014341428551428
+      DoppelSlime_30: 5220520945075376074
+      DoppelSlime_31: 3085551277478574451
+      DoppelSlime_32: -9133471123114005125
+      DoppelSlime_33: -9015901537341639075
+      DoppelSlime_34: -3071221744487197089
+      DoppelSlime_35: 2832862155721597745
+      DoppelSlime_36: 4586286797526405969
+      DoppelSlime_37: -8609675953422602414
+      DoppelSlime_38: -3566771630708365434
+      DoppelSlime_39: -5314380239957962540
+      DoppelSlime_4: -408612818257330958
+      DoppelSlime_40: 785841999981819278
+      DoppelSlime_41: 2626161919821775464
+      DoppelSlime_42: 1891418335492920104
+      DoppelSlime_43: -3669345612442054932
+      DoppelSlime_44: -8477811116250884742
+      DoppelSlime_45: 6527036906326909512
+      DoppelSlime_46: -8874554567847673735
+      DoppelSlime_47: 879971411173761113
+      DoppelSlime_48: -1798394587764212998
+      DoppelSlime_49: 7473868202102944466
+      DoppelSlime_5: -4261929397847046676
+      DoppelSlime_50: 6173797274269776904
+      DoppelSlime_51: -4242633905387489327
+      DoppelSlime_52: 7664688198892977543
+      DoppelSlime_53: -2318423785258230157
+      DoppelSlime_54: 1239869407083648480
+      DoppelSlime_55: -1307660095770916645
+      DoppelSlime_56: -6284038084015467935
+      DoppelSlime_6: -3789520254482291398
+      DoppelSlime_7: 8344897245938357594
+      DoppelSlime_8: 5472315453500269376
+      DoppelSlime_9: 8609168708793710366
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
