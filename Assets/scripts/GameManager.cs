@@ -13,6 +13,7 @@ public class GameManager : MonoBehaviour
     public BattleUIManager uiManager;
     public TurnManager turnManager;
     public AudioManager audioManager;
+    public RewardManager rewardManager; // Added The Reward Manager, DS
 
     [Header("Assigned Combatants")]
     public Player player;
@@ -169,6 +170,8 @@ public class GameManager : MonoBehaviour
         {
             uiManager.DisplayMessage("You win! Press ENTER to continue.");
             audioManager?.PlayVictorySoundThenPostTrack(); // ✅ Updated method name
+
+            rewardManager.ShowRewards(); // Calls the ShowRewards method that activates the reward window, DS
             waitingForNextLevel = true;
         }
         else
