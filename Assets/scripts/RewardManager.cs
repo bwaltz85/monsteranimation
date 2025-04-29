@@ -11,6 +11,17 @@ public class RewardManager : MonoBehaviour
     public TextMeshProUGUI[] rewardTexts;
 
     private List<Reward> currentRewards;
+    private GameManager gameManager; // Reference to GameManager
+
+    void Awake()
+    {
+        // Find the GameManager in the scene using the updated method
+        gameManager = FindFirstObjectByType<GameManager>();
+        if (gameManager == null)
+        {
+            Debug.LogError("GameManager not found in scene!");
+        }
+    }
 
     void Start()
     {
@@ -35,6 +46,11 @@ public class RewardManager : MonoBehaviour
     {
         currentRewards[index].applyEffect?.Invoke();
         rewardPanel.SetActive(false);
+        // Notify GameManager that a reward was selected
+        if (gameManager != null)
+        {
+            gameManager.OnRewardSelected();
+        }
     }
 
     List<Reward> GenerateRewards()

@@ -789,6 +789,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   musicSource: {fileID: 491394700}
   sfxSource: {fileID: 491394702}
+  mainMenuMusic: {fileID: 8300000, guid: ceede1fc651e7504c8bc0b45cbf07010, type: 3}
   battleMusicClips:
   - {fileID: 8300000, guid: 61cfb239a9105974d8c322519015a027, type: 3}
   - {fileID: 8300000, guid: 727888a77c8e9744dbc8e312987431be, type: 3}
@@ -802,9 +803,16 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 6d4c65460a7c32242918a1f8a5c111c9, type: 3}
   - {fileID: 8300000, guid: 76d84db02a7e2d8429631f4b1b9e1da0, type: 3}
   victoryClip: {fileID: 8300000, guid: 2d86975b0687a1941908d3c967679a3e, type: 3}
-  lossClip: {fileID: 8300000, guid: 3e34ff0552fc65945bba82d7fac759ae, type: 3}
   postVictoryClip: {fileID: 8300000, guid: 4824ba0b4882a224eb5bac30d5b4d448, type: 3}
+  lossClip: {fileID: 8300000, guid: 3e34ff0552fc65945bba82d7fac759ae, type: 3}
   attackClip: {fileID: 8300000, guid: 88b1cbe3caa3fee4b8b103b5edd7aba9, type: 3}
+  buffClip: {fileID: 8300000, guid: ee1a785e023727d4ba3f31c580dd330a, type: 3}
+  debuffClip: {fileID: 8300000, guid: a96b807ff72cbe64595c66ceb428524f, type: 3}
+  healClip: {fileID: 8300000, guid: cfce0cea076109f478783201b2a9f57f, type: 3}
+  attackVolume: 1
+  buffVolume: 0.5
+  debuffVolume: 0.5
+  healVolume: 0.5
 --- !u!82 &491394700
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2147,7 +2155,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 795148812}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 78c2360c96da5c448a2c4b196b47eabf, type: 3}
+  m_Script: {fileID: 11500000, guid: 24c244eb0aab9cc40acfff83dc7f5b92, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   playerMonsters:
@@ -2163,6 +2171,7 @@ MonoBehaviour:
   uiManager: {fileID: 50511007}
   turnManager: {fileID: 733854543}
   audioManager: {fileID: 491394699}
+  backgroundManager: {fileID: 894848712}
   rewardManager: {fileID: 312040633}
   player: {fileID: 2104295073}
   opponent: {fileID: 682049052}

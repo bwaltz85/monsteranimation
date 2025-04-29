@@ -1,19 +1,16 @@
 using UnityEngine;
-using UnityEngine.SceneManagement; // Needed to load scenes
+using UnityEngine.SceneManagement;
 
 public class MainMenuController : MonoBehaviour
 {
-    // This function will be called when the Start button is clicked.
     public void StartGame()
     {
-        // Goes to the game, will adjust later if we need to goto a seperate scene later one.
-        SceneManager.LoadScene("BattleScene");
+        SceneManager.LoadScene("BattleScene"); // Replace with your battle scene name
     }
 
-    // Optional: A function to exit the game. 
     public void QuitGame()
     {
+        Debug.Log("Quitting game...");
         Application.Quit();
-        Debug.Log("Game is quitting.");
     }
 }

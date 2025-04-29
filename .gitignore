@@ -9,3 +9,13 @@
 *.suo
 *.svd
 .vs/
+# Unity logs
+Logs/
+
+# User-specific Unity Editor settings
+UserSettings/
+
+# Temporary Unity files
+Temp/
+Library/
+obj/

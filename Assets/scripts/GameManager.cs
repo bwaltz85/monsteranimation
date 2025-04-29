@@ -1,5 +1,4 @@
-﻿using UnityEngine;
-using System.Collections;
+using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
@@ -12,54 +11,95 @@ public class GameManager : MonoBehaviour
     [Header("Managers")]
     public BattleUIManager uiManager;
     public TurnManager turnManager;
-    public AudioManager audioManager;
-    public RewardManager rewardManager; // Added The Reward Manager, DS
+    public AudioManager audioManager; // Still keep this for Inspector assignment, but we'll use AudioManager.Instance
+    public BackgroundManager backgroundManager;
+    public RewardManager rewardManager;
 
     [Header("Assigned Combatants")]
     public Player player;
     public Opponent opponent;
 
-    private bool isPlayerTurn = true;
-    private bool battleEnded = false;
-    private bool waitingForNextLevel = false;
+    private bool waitingForPlayerContinue = false;
+    private bool waitingForRewardSelection = false;
 
-    private GameObject currentOpponent;
+    void Awake()
+    {
+        if (turnManager == null)
+            turnManager = FindFirstObjectByType<TurnManager>();
+        if (turnManager == null)
+        {
+            Debug.LogError("TurnManager not found in scene!");
+        }
+
+        if (audioManager == null)
+            audioManager = FindFirstObjectByType<AudioManager>();
+        if (audioManager == null)
+        {
+            Debug.LogError("AudioManager not found in scene!");
+        }
+
+        if (backgroundManager == null)
+            backgroundManager = FindFirstObjectByType<BackgroundManager>();
+        if (backgroundManager == null)
+        {
+            Debug.LogError("BackgroundManager not found in scene!");
+        }
+
+        if (rewardManager == null)
+            rewardManager = FindFirstObjectByType<RewardManager>();
+        if (rewardManager == null)
+        {
+            Debug.LogError("RewardManager not found in scene!");
+        }
+    }
 
     void Start()
     {
+        turnManager.OnPlayerTurnStart += StartPlayerTurn;
+        turnManager.OnOpponentTurnStart += StartOpponentTurn;
+
         SpawnRandomPlayerMonster();
         SpawnRandomOpponentMonster();
 
         uiManager.UpdateMoveButtons();
         uiManager.UpdateHPUI();
 
-        uiManager.DisplayMessage("Battle Start!");
-        uiManager.DisplayTurn("Your Turn");
-        Debug.Log("Player's Turn");
+        if (AudioManager.Instance != null)
+        {
+            Debug.Log("Calling PlayRandomBattleTrack from GameManager.Start using AudioManager.Instance");
+            AudioManager.Instance.PlayRandomBattleTrack();
+        }
+        else
+        {
+            Debug.LogWarning("AudioManager.Instance is null in GameManager.Start");
+        }
+
+        backgroundManager?.SetInitialBackground();
+
+        turnManager.StartBattle();
     }
 
     void Update()
     {
-        if (waitingForNextLevel && Input.GetKeyDown(KeyCode.Return))
+        if (waitingForPlayerContinue && Input.GetKeyDown(KeyCode.Return))
         {
-            waitingForNextLevel = false;
-            StartNextBattle();
+            waitingForPlayerContinue = false;
+            waitingForRewardSelection = true;
+            rewardManager.ShowRewards();
         }
     }
 
     void SpawnRandomPlayerMonster()
     {
-        int index = Random.Range(0, playerMonsters.Length);
-        GameObject prefab = playerMonsters[index];
-        GameObject monster = Instantiate(prefab, playerSpawnPoint.position, Quaternion.identity);
-
-        player = monster.GetComponent<Player>();
-        if (player == null)
+        if (playerMonsters == null || playerMonsters.Length == 0)
         {
-            Debug.LogError("Spawned player monster is missing the Player script!");
+            Debug.LogError("PlayerMonsters array is empty! Please assign player monster prefabs in the Inspector.");
             return;
         }
 
+        int index = Random.Range(0, playerMonsters.Length);
+        GameObject monster = Instantiate(playerMonsters[index], playerSpawnPoint.position, Quaternion.identity);
+        player = monster.GetComponent<Player>();
         player.AssignMoves();
         player.health = 1000;
         player.attackPower = 10;
@@ -67,52 +107,42 @@ public class GameManager : MonoBehaviour
 
     void SpawnRandomOpponentMonster()
     {
-        if (currentOpponent != null)
+        if (opponentMonsters == null || opponentMonsters.Length == 0)
         {
-            Destroy(currentOpponent);
-        }
-
-        int index = Random.Range(0, opponentMonsters.Length);
-        GameObject prefab = opponentMonsters[index];
-        currentOpponent = Instantiate(prefab, opponentSpawnPoint.position, Quaternion.identity);
-        currentOpponent.transform.localScale = new Vector3(-1, 1, 1); // Face left
-
-        opponent = currentOpponent.GetComponent<Opponent>();
-        if (opponent == null)
-        {
-            Debug.LogError("Spawned opponent monster is missing the Opponent script!");
+            Debug.LogError("OpponentMonsters array is empty! Please assign opponent monster prefabs in the Inspector.");
             return;
         }
 
+        int index = Random.Range(0, opponentMonsters.Length);
+        GameObject monster = Instantiate(opponentMonsters[index], opponentSpawnPoint.position, Quaternion.identity);
+        opponent = monster.GetComponent<Opponent>();
         opponent.AssignMoves();
         opponent.health = 1000;
         opponent.attackPower = 10;
+
+        monster.transform.localScale = new Vector3(-1f * Mathf.Abs(monster.transform.localScale.x), monster.transform.localScale.y, monster.transform.localScale.z);
+    }
+
+    private void StartPlayerTurn()
+    {
+        uiManager.DisplayMessage("Battle Start!");
+        uiManager.DisplayTurn("Your Turn");
+    }
+
+    private void StartOpponentTurn()
+    {
+        OpponentTurn();
     }
 
     public void OnPlayerMoveSelected(int moveIndex)
     {
-        if (!isPlayerTurn || battleEnded) return;
+        if (!turnManager.isPlayerTurn || !turnManager.BattleActive) return;
 
         MoveScriptableObject selectedMove = player.playerMoves[moveIndex];
-
-        Debug.Log($"[BUTTON {moveIndex}] Triggered Move: {selectedMove.moveName} | Type: {selectedMove.moveType} | Power: {selectedMove.power}");
-
         player.ExecuteMove(selectedMove, opponent);
+
         uiManager.UpdateHPUI();
         uiManager.DisplayMessage($"You used {selectedMove.moveName}!");
-
-        switch (selectedMove.moveType)
-        {
-            case MoveType.Damage:
-                Debug.Log($"Player used {selectedMove.moveName} and dealt {selectedMove.power} damage!");
-                break;
-            case MoveType.Heal:
-                Debug.Log($"Player used {selectedMove.moveName} and healed for {selectedMove.power} HP!");
-                break;
-            default:
-                Debug.Log($"Player used {selectedMove.moveName} ({selectedMove.moveType})");
-                break;
-        }
 
         if (opponent.health <= 0)
         {
@@ -120,36 +150,17 @@ public class GameManager : MonoBehaviour
             return;
         }
 
-        isPlayerTurn = false;
-        uiManager.DisplayTurn("Enemy Turn");
-        Debug.Log("Opponent's Turn");
-        Invoke(nameof(OpponentTurn), 1.5f);
-
-        turnManager?.EndPlayerTurn();
+        player.UpdateEffects();
+        turnManager.EndPlayerTurn();
     }
 
-    void OpponentTurn()
+    private void OpponentTurn()
     {
-        if (battleEnded || isPlayerTurn) return;
-
         MoveScriptableObject opponentMove = opponent.SelectRandomMove();
         opponent.ExecuteMove(opponentMove, player);
+
         uiManager.UpdateHPUI();
-
         uiManager.DisplayMessage($"Opponent used {opponentMove.moveName}!");
-
-        switch (opponentMove.moveType)
-        {
-            case MoveType.Damage:
-                Debug.Log($"Opponent used {opponentMove.moveName} and dealt {opponentMove.power} damage!");
-                break;
-            case MoveType.Heal:
-                Debug.Log($"Opponent used {opponentMove.moveName} and healed for {opponentMove.power} HP!");
-                break;
-            default:
-                Debug.Log($"Opponent used {opponentMove.moveName} ({opponentMove.moveType})");
-                break;
-        }
 
         if (player.health <= 0)
         {
@@ -157,46 +168,75 @@ public class GameManager : MonoBehaviour
             return;
         }
 
-        isPlayerTurn = true;
-        uiManager.DisplayTurn("Your Turn");
-        Debug.Log("Player's Turn");
+        opponent.UpdateEffects();
+        turnManager.EndOpponentTurn();
     }
 
     void EndBattle(bool playerWon)
     {
-        battleEnded = true;
+        turnManager.EndBattle();
 
         if (playerWon)
         {
-            uiManager.DisplayMessage("You win! Press ENTER to continue.");
-            audioManager?.PlayVictorySoundThenPostTrack(); // ✅ Updated method name
-
-            rewardManager.ShowRewards(); // Calls the ShowRewards method that activates the reward window, DS
-            waitingForNextLevel = true;
+            uiManager.DisplayMessage("You win! Press [Enter] to continue.");
+            if (AudioManager.Instance != null)
+            {
+                Debug.Log("Calling PlayVictorySoundThenPostTrack from GameManager.EndBattle using AudioManager.Instance");
+                AudioManager.Instance.PlayVictorySoundThenPostTrack();
+            }
+            else
+            {
+                Debug.LogWarning("AudioManager.Instance is null in GameManager.EndBattle");
+            }
+            waitingForPlayerContinue = true;
         }
         else
         {
             uiManager.DisplayMessage("You lose.");
-            audioManager?.PlayLossSound();
+            if (AudioManager.Instance != null)
+            {
+                Debug.Log("Calling PlayLossSound from GameManager.EndBattle using AudioManager.Instance");
+                AudioManager.Instance.PlayLossSound();
+            }
+            else
+            {
+                Debug.LogWarning("AudioManager.Instance is null in GameManager.EndBattle");
+            }
         }
     }
 
-    void StartNextBattle()
+    void NextLevel()
     {
-        battleEnded = false;
-        isPlayerTurn = true;
+        Destroy(opponent.gameObject);
 
         SpawnRandomOpponentMonster();
-        player.AssignMoves();
-        opponent.AssignMoves();
+
+        backgroundManager?.SetInitialBackground();
+
+        if (AudioManager.Instance != null)
+        {
+            Debug.Log("Calling ResumePreviousBattleMusic from GameManager.NextLevel using AudioManager.Instance");
+            AudioManager.Instance.ResumePreviousBattleMusic();
+        }
+        else
+        {
+            Debug.LogWarning("AudioManager.Instance is null in GameManager.NextLevel");
+        }
 
         uiManager.UpdateMoveButtons();
         uiManager.UpdateHPUI();
-
-        uiManager.DisplayMessage("Next Battle Begins!");
+        uiManager.DisplayMessage("Next Battle!");
         uiManager.DisplayTurn("Your Turn");
 
-        Debug.Log("Next battle started.");
-        audioManager?.ResumePreviousBattleMusic();
+        waitingForRewardSelection = false;
+        turnManager.StartBattle();
+    }
+
+    public void OnRewardSelected()
+    {
+        if (waitingForRewardSelection)
+        {
+            NextLevel();
+        }
     }
 }

@@ -24,7 +24,7 @@ public class BattleUIManager : MonoBehaviour
             {
                 moveButtonTexts[i].text = gameManager.player.playerMoves[i].moveName;
 
-                int index = i; // ✅ Capture index correctly
+                int index = i;
                 moveButtons[i].onClick.RemoveAllListeners();
                 moveButtons[i].onClick.AddListener(() => gameManager.OnPlayerMoveSelected(index));
 
@@ -35,6 +35,8 @@ public class BattleUIManager : MonoBehaviour
                 moveButtons[i].gameObject.SetActive(false);
             }
         }
+
+        EnableMoveButtons(); // Ensure buttons are enabled when updated
     }
 
     public void UpdateHPUI()
@@ -53,6 +55,25 @@ public class BattleUIManager : MonoBehaviour
         if (turnIndicatorText != null)
         {
             turnIndicatorText.text = message;
+        }
+    }
+
+    public void EnableMoveButtons()
+    {
+        foreach (var button in moveButtons)
+        {
+            if (button.gameObject.activeSelf) // Only enable buttons that are visible
+            {
+                button.interactable = true;
+            }
+        }
+    }
+
+    public void DisableMoveButtons()
+    {
+        foreach (var button in moveButtons)
+        {
+            button.interactable = false;
         }
     }
 }

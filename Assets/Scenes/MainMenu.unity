@@ -152,25 +152,38 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   musicSource: {fileID: 704982542}
   sfxSource: {fileID: 704982544}
-  musicClips:
+  mainMenuMusic: {fileID: 8300000, guid: ceede1fc651e7504c8bc0b45cbf07010, type: 3}
+  battleMusicClips:
   - {fileID: 8300000, guid: 76d84db02a7e2d8429631f4b1b9e1da0, type: 3}
   - {fileID: 8300000, guid: 61cfb239a9105974d8c322519015a027, type: 3}
   - {fileID: 8300000, guid: 727888a77c8e9744dbc8e312987431be, type: 3}
-  - {fileID: 8300000, guid: d451f29e5beb2304f9d6a0e754b7d2f8, type: 3}
   - {fileID: 8300000, guid: b778a2cdbc9a6e1448ba938e2f089ecf, type: 3}
   - {fileID: 8300000, guid: eebab02dcb8eb57449a0b6a27c4a7708, type: 3}
   - {fileID: 8300000, guid: a932ad5a15871cb4a89210e27a3bf0e8, type: 3}
   - {fileID: 8300000, guid: 6d49270dd93661245b168bb42946ab37, type: 3}
   - {fileID: 8300000, guid: c998ebd78dc0a854fba9eb9fdb4e67d9, type: 3}
+  - {fileID: 8300000, guid: 27d957a9852100847be3b41b06b68621, type: 3}
   - {fileID: 8300000, guid: 013c5e4ab5a382043a0b7199d9a5631e, type: 3}
   - {fileID: 8300000, guid: 6d4c65460a7c32242918a1f8a5c111c9, type: 3}
-  mainMenuTheme: {fileID: 8300000, guid: 13ec693d8acf7f449a29cf87423368b7, type: 3}
-  delayBetweenTracks: 0.5
-  soundEffects:
-  - name: attack
-    clip: {fileID: 8300000, guid: 88b1cbe3caa3fee4b8b103b5edd7aba9, type: 3}
+  - {fileID: 8300000, guid: bea1f1f3a1b134f508156835fb15516a, type: 3}
+  - {fileID: 8300000, guid: 27e72a84324e34990a28d92525ea4fa0, type: 3}
+  - {fileID: 8300000, guid: 6c325016664054dfa8050c6954897484, type: 3}
+  - {fileID: 8300000, guid: 08084e7f1443a45a697e4af6402d9510, type: 3}
+  - {fileID: 8300000, guid: 6880e74c5281e428cace07ef42b5a6d9, type: 3}
+  - {fileID: 8300000, guid: 915b6ca32befa42ca842297348a96cb8, type: 3}
+  - {fileID: 8300000, guid: 0e50856cb275b4eb6ac3d4ef8b72e440, type: 3}
+  - {fileID: 8300000, guid: 61e35c09da5244217ac7347e8071e1fa, type: 3}
   victoryClip: {fileID: 8300000, guid: 2d86975b0687a1941908d3c967679a3e, type: 3}
+  postVictoryClip: {fileID: 8300000, guid: 4824ba0b4882a224eb5bac30d5b4d448, type: 3}
   lossClip: {fileID: 8300000, guid: 3e34ff0552fc65945bba82d7fac759ae, type: 3}
+  attackClip: {fileID: 8300000, guid: 88b1cbe3caa3fee4b8b103b5edd7aba9, type: 3}
+  buffClip: {fileID: 8300000, guid: ee1a785e023727d4ba3f31c580dd330a, type: 3}
+  debuffClip: {fileID: 8300000, guid: a96b807ff72cbe64595c66ceb428524f, type: 3}
+  healClip: {fileID: 8300000, guid: cfce0cea076109f478783201b2a9f57f, type: 3}
+  attackVolume: 1
+  buffVolume: 0.25
+  debuffVolume: 0.25
+  healVolume: 0.25
 --- !u!82 &704982542
 AudioSource:
   m_ObjectHideFlags: 0
@@ -181,10 +194,10 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 13ec693d8acf7f449a29cf87423368b7, type: 3}
-  m_Resource: {fileID: 8300000, guid: 13ec693d8acf7f449a29cf87423368b7, type: 3}
+  m_audioClip: {fileID: 8300000, guid: ceede1fc651e7504c8bc0b45cbf07010, type: 3}
+  m_Resource: {fileID: 8300000, guid: ceede1fc651e7504c8bc0b45cbf07010, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.25
+  m_Volume: 0.1
   m_Pitch: 1
   Loop: 0
   Mute: 0
