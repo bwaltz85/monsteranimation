@@ -710,6 +710,8 @@ MonoBehaviour:
   - {fileID: 1906809058}
   - {fileID: 877253713}
   - {fileID: 303406236}
+  moveManager: {fileID: 841244418}
+  playerRef: {fileID: 2104295073}
 --- !u!4 &312040634
 Transform:
   m_ObjectHideFlags: 0
@@ -2150,6 +2152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78c2360c96da5c448a2c4b196b47eabf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  rewardPanel: {fileID: 1250605609}
   playerMonsters:
   - {fileID: 136347511579512364, guid: 444a373567ffc0c439b6935e41d07f8c, type: 3}
   - {fileID: 322126690210010291, guid: eda259c400254674c86abf9c519a3a2c, type: 3}
@@ -2223,6 +2226,13 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 8a9110c2a17187045a50e00199219138, type: 2}
   - {fileID: 11400000, guid: 01150b1ea016e674da42443c38dddd72, type: 2}
   - {fileID: 11400000, guid: 809320fb45a9c8f40b5082e5f9f930ba, type: 2}
+  replacePromptPanel: {fileID: 1250605609}
+  promptText: {fileID: 897152293}
+  moveButtons:
+  - {fileID: 936162021}
+  - {fileID: 736429044}
+  - {fileID: 724943860}
+  - {fileID: 1314316485}
 --- !u!4 &841244419
 Transform:
   m_ObjectHideFlags: 0

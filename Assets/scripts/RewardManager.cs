@@ -9,12 +9,14 @@ public class RewardManager : MonoBehaviour
     public GameObject rewardPanel;
     public Button[] rewardButtons;
     public TextMeshProUGUI[] rewardTexts;
+    public MoveManager moveManager; // Set in Inspector
+    public Player playerRef;        // Set in Inspector
 
     private List<Reward> currentRewards;
 
     void Start()
     {
-        rewardPanel.SetActive(false); // Hide on startup
+        rewardPanel.SetActive(false);
     }
 
     public void ShowRewards()
@@ -56,46 +58,40 @@ public class RewardManager : MonoBehaviour
         return rewards;
     }
 
-    // ========================== Reward Pools ==========================
+    // ========================== Reward Options ==========================
+
     Reward RandomStatBuff()
     {
-        string[] buffs = { "+1 Attack", "+1 Defense", "+1 Speed", "+5 Max HP", "+10% Crit Chance", "+1 Status Resistance" };
+        string[] buffs = { "+1 Attack", "+1 Defense", "+1 Speed", "+5 Max HP" };
         string selected = buffs[UnityEngine.Random.Range(0, buffs.Length)];
 
         return new Reward
         {
             description = "Gain " + selected,
-            applyEffect = () => Debug.Log("Applied stat buff: " + selected) // Replace with real logic
+            applyEffect = () => Debug.Log("Applied stat buff: " + selected) // Replace with real stat buff logic
         };
     }
 
     Reward RandomNewMove()
     {
-        string[] moves = {
-            "Quick Attack", "Thunder Strike", "Fire Blast",
-            "Weaken", "Intimidate", "Curse",
-            "Power Boost", "Strength Enhance", "Mighty Force",
-            "Heal Wounds", "Rejuvenate", "Full Recovery"
-        };
-
-        string move = moves[UnityEngine.Random.Range(0, moves.Length)];
+        MoveScriptableObject move = moveManager.GetRandomMove();
 
         return new Reward
         {
-            description = "Learn a new move: " + move,
-            applyEffect = () => Debug.Log("Learned move: " + move) // Replace with move-learn logic
+            description = $"Learn a new move: <color=yellow>{move.moveName}</color>",
+            applyEffect = () => moveManager.StartMoveReplacement(move, playerRef)
         };
     }
 
     Reward RandomHealing()
     {
-        string[] heals = { "Heal 25% HP", "Heal 50% HP", "Heal Full HP", "Shield Next Turn" };
+        string[] heals = { "Heal 25%", "Heal 50%", "Full Heal" };
         string selected = heals[UnityEngine.Random.Range(0, heals.Length)];
 
         return new Reward
         {
             description = selected,
-            applyEffect = () => Debug.Log("Applied healing: " + selected) // Replace with healing logic
+            applyEffect = () => Debug.Log("Healed player: " + selected) // Replace with playerRef.Heal()
         };
     }
 }

@@ -3,6 +3,7 @@ using System.Collections;
 
 public class GameManager : MonoBehaviour
 {
+    public GameObject rewardPanel;
     [Header("Prefabs & Spawn Points")]
     public GameObject[] playerMonsters;
     public GameObject[] opponentMonsters;
@@ -185,6 +186,8 @@ public class GameManager : MonoBehaviour
     {
         battleEnded = false;
         isPlayerTurn = true;
+
+        rewardPanel.SetActive(false);
 
         SpawnRandomOpponentMonster();
         player.AssignMoves();
